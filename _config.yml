@@ -1,0 +1,20 @@
+# Site settings
+title: vizit.divshot.io
+email: "&#103;&#108;&#97;&#109;&#112;&#101;&#114;&#100;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;"
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://vizit.divshot.com" # the base hostname & protocol for your site
+twitter_username: glamperd
+github_username:  DalaiLlaama
+
+# Build settings
+markdown: kramdown
+
+highlighter: rouge
+
+encoding: utf-8
+
+exclude: 
+  - divshot.json
+  

@@ -1,0 +1,798 @@
+{ "nodes": [{
+		"colour": "#888888",
+		"index": 0,
+		"name": "Balance"
+	},
+	{
+		"colour": "#888888",
+		"index": 1,
+		"name": "Other groups"
+	},
+	{
+		"colour": "#888888",
+		"index": 2,
+		"name": "Other groups"
+	},
+	{
+		"colour": "#7db3da",
+		"index": 3,
+		"name": "Marise PAYNE (1)"
+	},
+	{
+		"colour": "#fe2e2e",
+		"index": 4,
+		"name": "Bob CARR (2)"
+	},
+	{
+		"colour": "#7db3da",
+		"index": 5,
+		"name": "John WILLIAMS (3)"
+	},
+	{
+		"colour": "#fe2e2e",
+		"index": 6,
+		"name": "Doug CAMERON (4)"
+	},
+	{
+		"colour": "#f8f808",
+		"index": 7,
+		"name": "David LEYONHJELM (5)"
+	},
+	{
+		"colour": "#7db3da",
+		"index": 8,
+		"name": "Arthur SINODINOS (6)"
+	},
+	{
+		"colour": "#01df01",
+		"index": 9,
+		"name": "GRN"
+	},
+	{
+		"colour": "#7db3da",
+		"index": 10,
+		"name": "LP\/NP"
+	},
+	{
+		"colour": "#7401df",
+		"index": 11,
+		"name": "ASP"
+	},
+	{
+		"colour": "#f8f808",
+		"index": 12,
+		"name": "LDP"
+	},
+	{
+		"colour": "#ff00ff",
+		"index": 13,
+		"name": "ASXP"
+	},
+	{
+		"colour": "#f5da81",
+		"index": 14,
+		"name": "ON"
+	},
+	{
+		"colour": "#f3f781",
+		"index": 15,
+		"name": "PUP"
+	},
+	{
+		"colour": "#fe2e2e",
+		"index": 16,
+		"name": "ALP"
+	},
+	{
+		"colour": "#b40431",
+		"index": 17,
+		"name": "AMEP"
+	},
+	{
+		"colour": "#e2a9f3",
+		"index": 18,
+		"name": "CDP"
+	},
+	{
+		"colour": "#ff8000",
+		"index": 19,
+		"name": "DLP"
+	},
+	{
+		"colour": "#ff8000",
+		"index": 20,
+		"name": "DEM"
+	},
+	{
+		"colour": "#01dfd7",
+		"index": 21,
+		"name": "WKP"
+	},
+	{
+		"colour": "#dba901",
+		"index": 22,
+		"name": "HMP"
+	},
+	{
+		"colour": "#01dfa5",
+		"index": 23,
+		"name": "AJP"
+	},
+	{
+		"colour": "#01df01",
+		"index": 24,
+		"name": "The Greens"
+	},
+	{
+		"colour": "#7db3da",
+		"index": 25,
+		"name": "Liberal\/Nationals"
+	},
+	{
+		"colour": "#7401df",
+		"index": 26,
+		"name": "Shooters and Fishers"
+	},
+	{
+		"colour": "#f8f808",
+		"index": 27,
+		"name": "Liberal Democrats"
+	},
+	{
+		"colour": "#ff00ff",
+		"index": 28,
+		"name": "Sex Party"
+	},
+	{
+		"colour": "#f5da81",
+		"index": 29,
+		"name": "One Nation"
+	},
+	{
+		"colour": "#f3f781",
+		"index": 30,
+		"name": "Palmer United Party"
+	},
+	{
+		"colour": "#fe2e2e",
+		"index": 31,
+		"name": "Labor"
+	},
+	{
+		"colour": "#b40431",
+		"index": 32,
+		"name": "Australian Motoring Enthusiast Party"
+	},
+	{
+		"colour": "#e2a9f3",
+		"index": 33,
+		"name": "Christian Democratic Party (Fred Nile Group)"
+	},
+	{
+		"colour": "#ff8000",
+		"index": 34,
+		"name": "Democratic Labour Party (DLP)"
+	},
+	{
+		"colour": "#ff8000",
+		"index": 35,
+		"name": "Australian Democrats"
+	},
+	{
+		"colour": "#01dfd7",
+		"index": 36,
+		"name": "The Wikileaks Party"
+	},
+	{
+		"colour": "#dba901",
+		"index": 37,
+		"name": "Help End Marijuana Prohibition (HEMP) Party"
+	},
+	{
+		"colour": "#01dfa5",
+		"index": 38,
+		"name": "Animal Justice Party"
+}],
+"links": 
+	 [{
+		"source": 9,
+		"value": 555073,
+		"target": 0
+	},
+	{
+		"source": 10,
+		"value": 60872,
+		"target": 0
+	},
+	{
+		"source": 2,
+		"value": 186122,
+		"target": 1
+	},
+	{
+		"source": 28,
+		"value": 44830,
+		"target": 13
+	},
+	{
+		"source": 36,
+		"value": 36399,
+		"target": 21
+	},
+	{
+		"source": 33,
+		"value": 72544,
+		"target": 18
+	},
+	{
+		"source": 37,
+		"value": 30003,
+		"target": 22
+	},
+	{
+		"source": 34,
+		"value": 67549,
+		"target": 19
+	},
+	{
+		"source": 24,
+		"value": 340941,
+		"target": 9
+	},
+	{
+		"source": 30,
+		"value": 148281,
+		"target": 15
+	},
+	{
+		"source": 38,
+		"value": 21215,
+		"target": 23
+	},
+	{
+		"source": 29,
+		"value": 53293,
+		"target": 14
+	},
+	{
+		"source": 35,
+		"value": 9482,
+		"target": 20
+	},
+	{
+		"source": 32,
+		"value": 17126,
+		"target": 17
+	},
+	{
+		"source": 26,
+		"value": 54658,
+		"target": 11
+	},
+	{
+		"source": 13,
+		"value": 131692,
+		"target": 12
+	},
+	{
+		"source": 13,
+		"value": 36399,
+		"target": 9
+	},
+	{
+		"source": 13,
+		"value": 700,
+		"target": 10
+	},
+	{
+		"source": 18,
+		"value": 508,
+		"target": 12
+	},
+	{
+		"source": 18,
+		"value": 2420,
+		"target": 10
+	},
+	{
+		"source": 18,
+		"value": 537,
+		"target": 15
+	},
+	{
+		"source": 18,
+		"value": 275,
+		"target": 9
+	},
+	{
+		"source": 18,
+		"value": 929,
+		"target": 16
+	},
+	{
+		"source": 16,
+		"value": 698,
+		"target": 12
+	},
+	{
+		"source": 16,
+		"value": 2927,
+		"target": 10
+	},
+	{
+		"source": 16,
+		"value": 1443,
+		"target": 13
+	},
+	{
+		"source": 16,
+		"value": 130721,
+		"target": 9
+	},
+	{
+		"source": 16,
+		"value": 573,
+		"target": 15
+	},
+	{
+		"source": 22,
+		"value": 648,
+		"target": 21
+	},
+	{
+		"source": 22,
+		"value": 155,
+		"target": 16
+	},
+	{
+		"source": 22,
+		"value": 529,
+		"target": 13
+	},
+	{
+		"source": 22,
+		"value": 282,
+		"target": 9
+	},
+	{
+		"source": 21,
+		"value": 168,
+		"target": 12
+	},
+	{
+		"source": 21,
+		"value": 139,
+		"target": 19
+	},
+	{
+		"source": 21,
+		"value": 258,
+		"target": 10
+	},
+	{
+		"source": 21,
+		"value": 812,
+		"target": 16
+	},
+	{
+		"source": 21,
+		"value": 135,
+		"target": 18
+	},
+	{
+		"source": 21,
+		"value": 389,
+		"target": 15
+	},
+	{
+		"source": 21,
+		"value": 2156,
+		"target": 9
+	},
+	{
+		"source": 21,
+		"value": 37378,
+		"target": 13
+	},
+	{
+		"source": 19,
+		"value": 246,
+		"target": 12
+	},
+	{
+		"source": 19,
+		"value": 201,
+		"target": 9
+	},
+	{
+		"source": 19,
+		"value": 164,
+		"target": 10
+	},
+	{
+		"source": 19,
+		"value": 596,
+		"target": 18
+	},
+	{
+		"source": 19,
+		"value": 353,
+		"target": 16
+	},
+	{
+		"source": 12,
+		"value": 6968,
+		"target": 11
+	},
+	{
+		"source": 15,
+		"value": 149169,
+		"target": 10
+	},
+	{
+		"source": 15,
+		"value": 929,
+		"target": 9
+	},
+	{
+		"source": 15,
+		"value": 685,
+		"target": 13
+	},
+	{
+		"source": 15,
+		"value": 638,
+		"target": 12
+	},
+	{
+		"source": 13,
+		"value": 12539,
+		"target": 11
+	},
+	{
+		"source": 18,
+		"value": 407,
+		"target": 14
+	},
+	{
+		"source": 18,
+		"value": 162,
+		"target": 17
+	},
+	{
+		"source": 16,
+		"value": 214,
+		"target": 11
+	},
+	{
+		"source": 16,
+		"value": 277,
+		"target": 14
+	},
+	{
+		"source": 18,
+		"value": 70881,
+		"target": 11
+	},
+	{
+		"source": 21,
+		"value": 3768,
+		"target": 20
+	},
+	{
+		"source": 21,
+		"value": 267,
+		"target": 14
+	},
+	{
+		"source": 21,
+		"value": 150,
+		"target": 17
+	},
+	{
+		"source": 21,
+		"value": 123,
+		"target": 11
+	},
+	{
+		"source": 22,
+		"value": 31024,
+		"target": 17
+	},
+	{
+		"source": 19,
+		"value": 66393,
+		"target": 14
+	},
+	{
+		"source": 15,
+		"value": 660,
+		"target": 11
+	},
+	{
+		"source": 15,
+		"value": 1224,
+		"target": 14
+	},
+	{
+		"source": 1,
+		"value": 24918,
+		"target": 17
+	},
+	{
+		"source": 1,
+		"value": 23968,
+		"target": 14
+	},
+	{
+		"source": 12,
+		"value": 18865,
+		"target": 10
+	},
+	{
+		"source": 12,
+		"value": 2499,
+		"target": 9
+	},
+	{
+		"source": 1,
+		"value": 37873,
+		"target": 11
+	},
+	{
+		"source": 1,
+		"value": 22569,
+		"target": 20
+	},
+	{
+		"source": 1,
+		"value": 7464,
+		"target": 23
+	},
+	{
+		"source": 1,
+		"value": 295,
+		"target": 19
+	},
+	{
+		"source": 1,
+		"value": 17950,
+		"target": 12
+	},
+	{
+		"source": 1,
+		"value": 1520,
+		"target": 16
+	},
+	{
+		"source": 1,
+		"value": 2865,
+		"target": 18
+	},
+	{
+		"source": 1,
+		"value": 8533,
+		"target": 21
+	},
+	{
+		"source": 1,
+		"value": 681,
+		"target": 22
+	},
+	{
+		"source": 1,
+		"value": 1409,
+		"target": 10
+	},
+	{
+		"source": 1,
+		"value": 18468,
+		"target": 9
+	},
+	{
+		"source": 1,
+		"value": 14699,
+		"target": 13
+	},
+	{
+		"source": 1,
+		"value": 3148,
+		"target": 15
+	},
+	{
+		"source": 23,
+		"value": 174,
+		"target": 21
+	},
+	{
+		"source": 23,
+		"value": 2346,
+		"target": 22
+	},
+	{
+		"source": 23,
+		"value": 107,
+		"target": 16
+	},
+	{
+		"source": 23,
+		"value": 521,
+		"target": 9
+	},
+	{
+		"source": 23,
+		"value": 138,
+		"target": 13
+	},
+	{
+		"source": 23,
+		"value": 20307,
+		"target": 20
+	},
+	{
+		"source": 23,
+		"value": 4745,
+		"target": 17
+	},
+	{
+		"source": 20,
+		"value": 124,
+		"target": 12
+	},
+	{
+		"source": 20,
+		"value": 123,
+		"target": 19
+	},
+	{
+		"source": 20,
+		"value": 5270,
+		"target": 10
+	},
+	{
+		"source": 20,
+		"value": 110,
+		"target": 15
+	},
+	{
+		"source": 20,
+		"value": 764,
+		"target": 9
+	},
+	{
+		"source": 20,
+		"value": 38525,
+		"target": 13
+	},
+	{
+		"source": 20,
+		"value": 2430,
+		"target": 16
+	},
+	{
+		"source": 11,
+		"value": 256522,
+		"target": 10
+	},
+	{
+		"source": 11,
+		"value": 20396,
+		"target": 9
+	},
+	{
+		"source": 17,
+		"value": 159,
+		"target": 15
+	},
+	{
+		"source": 17,
+		"value": 118,
+		"target": 9
+	},
+	{
+		"source": 17,
+		"value": 42433,
+		"target": 13
+	},
+	{
+		"source": 17,
+		"value": 151,
+		"target": 10
+	},
+	{
+		"source": 14,
+		"value": 85380,
+		"target": 12
+	},
+	{
+		"source": 14,
+		"value": 838,
+		"target": 13
+	},
+	{
+		"source": 14,
+		"value": 767,
+		"target": 9
+	},
+	{
+		"source": 14,
+		"value": 2011,
+		"target": 10
+	},
+	{
+		"source": 17,
+		"value": 105,
+		"target": 12
+	},
+	{
+		"source": 17,
+		"value": 131,
+		"target": 16
+	},
+	{
+		"source": 20,
+		"value": 8637,
+		"target": 17
+	},
+	{
+		"source": 17,
+		"value": 24480,
+		"target": 11
+	},
+	{
+		"source": 14,
+		"value": 76088,
+		"target": 11
+	},
+	{
+		"source": 17,
+		"value": 19234,
+		"target": 14
+	},
+	{
+		"source": 27,
+		"value": 415901,
+		"target": 7
+	},
+	{
+		"source": 31,
+		"value": 625164,
+		"target": 4
+	},
+	{
+		"source": 31,
+		"value": 625164,
+		"target": 6
+	},
+	{
+		"source": 25,
+		"value": 625164,
+		"target": 3
+	},
+	{
+		"source": 25,
+		"value": 625164,
+		"target": 5
+	},
+	{
+		"source": 25,
+		"value": 246424,
+		"target": 8
+	},
+	{
+		"source": 12,
+		"value": 209263,
+		"target": 7
+	},
+	{
+		"source": 10,
+		"value": 378740,
+		"target": 8
+	},
+	{
+		"source": 31,
+		"value": 130719,
+		"target": 16
+	}]
+}
+	

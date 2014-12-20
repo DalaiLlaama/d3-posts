@@ -1,0 +1,427 @@
+{
+	"nodes": [{
+		"colour": "#888888",
+		"index": 0,
+		"name": "Balance"
+	},
+	{
+		"colour": "#888888",
+		"index": 1,
+		"name": ""
+	},
+	{
+		"colour": "#888888",
+		"index": 2,
+		"name": ""
+	},
+	{
+		"colour": "#fe7b71",
+		"index": 3,
+		"name": "Kate LUNDY"
+	},
+	{
+		"colour": "#7db3da",
+		"index": 4,
+		"name": "Zed SESELJA"
+	},
+	{
+		"colour": "#4d59a1",
+		"index": 5,
+		"name": "BTA"
+	},
+	{
+		"colour": "#ff00ff",
+		"index": 6,
+		"name": "ASXP"
+	},
+	{
+		"colour": "#7dda7d",
+		"index": 7,
+		"name": "GRN"
+	},
+	{
+		"colour": "#7db3da",
+		"index": 8,
+		"name": "LP"
+	},
+	{
+		"colour": "#f3f781",
+		"index": 9,
+		"name": "PUP"
+	},
+	{
+		"colour": "#876543",
+		"index": 10,
+		"name": "VEP"
+	},
+	{
+		"colour": "#01dfa5",
+		"index": 11,
+		"name": "AJP"
+	},
+	{
+		"colour": "#fe7b71",
+		"index": 12,
+		"name": "ALP"
+	},
+	{
+		"colour": "#345678",
+		"index": 13,
+		"name": "AIN"
+	},
+	{
+		"colour": "#44BB55",
+		"index": 14,
+		"name": "KAP"
+	},
+	{
+		"colour": "#6a8d92",
+		"index": 15,
+		"name": "RUA"
+	},
+	{
+		"colour": "#8d4062",
+		"index": 16,
+		"name": "SPP"
+	},
+	{
+		"colour": "#261f3d",
+		"index": 17,
+		"name": "DRF"
+	},
+	{
+		"colour": "#888811",
+		"index": 18,
+		"name": "IND"
+	},
+	{
+		"colour": "#4d59a1",
+		"index": 19,
+		"name": "Bullet Train For Australia"
+	},
+	{
+		"colour": "#ff00ff",
+		"index": 20,
+		"name": "Sex Party"
+	},
+	{
+		"colour": "#7dda7d",
+		"index": 21,
+		"name": "Australian Greens"
+	},
+	{
+		"colour": "#7db3da",
+		"index": 22,
+		"name": "Liberal"
+	},
+	{
+		"colour": "#f3f781",
+		"index": 23,
+		"name": "Palmer United Party"
+	},
+	{
+		"colour": "#876543",
+		"index": 24,
+		"name": "Voluntary Euthanasia Party"
+	},
+	{
+		"colour": "#01dfa5",
+		"index": 25,
+		"name": "Animal Justice Party"
+	},
+	{
+		"colour": "#fe7b71",
+		"index": 26,
+		"name": "Australian Labor Party"
+	},
+	{
+		"colour": "#345678",
+		"index": 27,
+		"name": "Australian Independents"
+	},
+	{
+		"colour": "#44BB55",
+		"index": 28,
+		"name": "Katter's Australian Party"
+	},
+	{
+		"colour": "#6a8d92",
+		"index": 29,
+		"name": "Rise Up Australia Party"
+	},
+	{
+		"colour": "#8d4062",
+		"index": 30,
+		"name": "Stable Population Party"
+	},
+	{
+		"colour": "#261f3d",
+		"index": 31,
+		"name": "Drug Law Reform"
+	},
+	{
+		"colour": "#888811",
+		"index": 32,
+		"name": "Independents"
+	}],
+	"links": [{
+		"source": 7,
+		"value": 52037,
+		"target": 0
+	},
+	{
+		"source": 5,
+		"value": 15548,
+		"target": 0
+	},
+	{
+		"source": 6,
+		"value": 14155,
+		"target": 0
+	},
+	{
+		"source": 8,
+		"value": 411,
+		"target": 0
+	},
+	{
+		"source": 27,
+		"value": 1592,
+		"target": 13
+	},
+	{
+		"source": 24,
+		"value": 3963,
+		"target": 10
+	},
+	{
+		"source": 23,
+		"value": 5213,
+		"target": 9
+	},
+	{
+		"source": 19,
+		"value": 5066,
+		"target": 5
+	},
+	{
+		"source": 31,
+		"value": 914,
+		"target": 17
+	},
+	{
+		"source": 20,
+		"value": 8616,
+		"target": 6
+	},
+	{
+		"source": 29,
+		"value": 1381,
+		"target": 15
+	},
+	{
+		"source": 25,
+		"value": 2992,
+		"target": 11
+	},
+	{
+		"source": 28,
+		"value": 1416,
+		"target": 14
+	},
+	{
+		"source": 21,
+		"value": 47553,
+		"target": 7
+	},
+	{
+		"source": 30,
+		"value": 931,
+		"target": 16
+	},
+	{
+		"source": 32,
+		"value": 518,
+		"target": 18
+	},
+	{
+		"source": 8,
+		"value": 635,
+		"target": 4
+	},
+	{
+		"source": 22,
+		"value": 81613,
+		"target": 4
+	},
+	{
+		"source": 26,
+		"value": 82248,
+		"target": 3
+	},
+	{
+		"source": 26,
+		"value": 2726,
+		"target": 12
+	},
+	{
+		"source": 9,
+		"value": 453,
+		"target": 8
+	},
+	{
+		"source": 8,
+		"value": 116,
+		"target": 5
+	},
+	{
+		"source": 12,
+		"value": 2353,
+		"target": 7
+	},
+	{
+		"source": 12,
+		"value": 160,
+		"target": 5
+	},
+	{
+		"source": 12,
+		"value": 147,
+		"target": 6
+	},
+	{
+		"source": 12,
+		"value": 137,
+		"target": 9
+	},
+	{
+		"source": 12,
+		"value": 204,
+		"target": 8
+	},
+	{
+		"source": 13,
+		"value": 1312,
+		"target": 6
+	},
+	{
+		"source": 13,
+		"value": 498,
+		"target": 5
+	},
+	{
+		"source": 13,
+		"value": 101,
+		"target": 7
+	},
+	{
+		"source": 6,
+		"value": 188,
+		"target": 5
+	},
+	{
+		"source": 17,
+		"value": 669,
+		"target": 6
+	},
+	{
+		"source": 15,
+		"value": 914,
+		"target": 5
+	},
+	{
+		"source": 10,
+		"value": 495,
+		"target": 5
+	},
+	{
+		"source": 10,
+		"value": 2640,
+		"target": 6
+	},
+	{
+		"source": 10,
+		"value": 897,
+		"target": 7
+	},
+	{
+		"source": 15,
+		"value": 270,
+		"target": 8
+	},
+	{
+		"source": 9,
+		"value": 417,
+		"target": 6
+	},
+	{
+		"source": 9,
+		"value": 4885,
+		"target": 5
+	},
+	{
+		"source": 9,
+		"value": 288,
+		"target": 7
+	},
+	{
+		"source": 10,
+		"value": 320,
+		"target": 8
+	},
+	{
+		"source": 10,
+		"value": 202,
+		"target": 9
+	},
+	{
+		"source": 14,
+		"value": 164,
+		"target": 9
+	},
+	{
+		"source": 14,
+		"value": 942,
+		"target": 5
+	},
+	{
+		"source": 16,
+		"value": 437,
+		"target": 13
+	},
+	{
+		"source": 16,
+		"value": 130,
+		"target": 7
+	},
+	{
+		"source": 11,
+		"value": 150,
+		"target": 10
+	},
+	{
+		"source": 11,
+		"value": 104,
+		"target": 8
+	},
+	{
+		"source": 11,
+		"value": 490,
+		"target": 7
+	},
+	{
+		"source": 11,
+		"value": 2333,
+		"target": 5
+	},
+	{
+		"source": 11,
+		"value": 154,
+		"target": 6
+	},
+	{
+		"source": 18,
+		"value": 127,
+		"target": 13
+	}]
+}

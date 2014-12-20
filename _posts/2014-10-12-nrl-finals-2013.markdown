@@ -1,0 +1,139 @@
+---
+layout: post
+title:  "NRL Finals 2014"
+date:   2014-10-12 19:56:47
+categories: dataviz nrl finals
+---
+<style>
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: auto;
+  position: relative;
+  width: 960px;
+}
+</style>
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script type="text/javascript" >
+
+//var d3 = require('d3');
+
+var width = 960,
+    height = 700,
+    radius = Math.min(width, height) / 2;
+    //color = d3.scale.category20c();
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height)
+    .append("g")
+    .attr("transform", "translate(" + width / 2 + "," + height * .52 + ")");
+
+var partition = d3.layout.partition()
+    .sort(null)
+    .size([2 * Math.PI, radius * radius])
+    .value(function(d) { return d.size; });
+
+var arc = d3.svg.arc()
+    .startAngle(function(d) { return d.x; })
+    .endAngle(function(d) { return d.x + d.dx; })
+    .innerRadius(function(d) { return (d.depth * 60); })
+    .outerRadius(function(d) { return ((d.depth + 1) * 60); });
+  
+var text = svg.append("svg:text")
+    .attr("x", 0)
+    .attr("y", -340)
+    .attr("dy", ".35em")
+    .attr("text-anchor", "middle")
+    .style("font-size", "30")
+    .text("NRL Finals 2014");
+	
+var nrl = { 
+ "name": "Rabbitohs", "colour": "009933", 
+ "children": [{ 
+   "name": "Bulldogs 6", "colour": "0000BB", 
+   "children": [{ 
+      "name": "Panthers 12", "colour": "000000", 
+      "children": [
+        {"name": "", "colour": "CCCCCC", 
+        "children": [ 
+          {"name": "Roosters 18", "size": 1, "colour": "cc0000" }, 
+          {"name": "Panthers 19", "size": 1, "colour": "000000" }]} 
+     ]}, 
+    {"name": "Bulldogs 18", "colour": "0000BB", 
+       "children": [ 
+      {"name": "Bulldogs 18", "colour": "0000BB", 
+        "children": [ 
+          {"name": "Storm 4", "size": 0.5, "colour": "FFCC00" }, 
+          {"name": "Bulldogs 28", "size": 0.5, "colour": "0000BB" }]}, 
+      {"name": "Sea Eagles 17", "colour": "7A0029", "size": 1 }]}]}, 
+  {"name": "Rabbitohs 30", "colour": "009933", 
+   "children": [ 
+     {"name": "Roosters 22", "colour": "CC0000", 
+      "children": [ 
+        {"name": "Roosters 31", "colour": "CC0000", "size": 1}, 
+         {"name": "Cowboys 30", "colour": "000044", 
+          "children": [ 
+             {"name": "Broncos 20", "size": 0.5, "colour": "A3007A" }, 
+             {"name": "Cowboys 32", "size": 0.5, "colour": "000044" } 
+             ]} 
+      ]},{"name": "Rabbitohs 32", "colour": "009933", 
+        "children": [{ 
+          "name": "", "colour": "CCCCCC", 
+          "children": [ 
+            {"name": "Rabbitohs 40", "size": 1, "colour": "009933" }, 
+            {"name": "Sea Eagles 24", "size": 1, "colour": "7A0029" } 
+          ]}]} 
+   ]}]  
+};
+
+
+  var arcs = svg.datum(nrl).selectAll("g.slice")     //this selects all <g> elements with class slice (there aren't any yet)
+       .data(partition.nodes)                         //associate the generated pie data (an array of arcs, each having startAngle, endAngle and value properties) 
+       .enter()                           //this will create <g> elements for every "extra" data element that should be associated with a selection. The result is creating a <g> for every object in the data array
+       .append("svg:g")                   //create a group to hold each slice (we will have a <path> and a <text> element associated with each slice)
+       .attr("class", "slice");           //allow us to style things in the slices (like text)
+console.log('loaded json: ');	
+
+  arcs.append("path")
+      //.attr("display", function(d) { return d.depth ? null : "none"; }) // hide inner ring
+      .attr("d", arc)
+      .attr("id", function(d, i) {return "s" + i;})
+      .style("stroke", "#fff")
+      .style("fill", function(d) { return "#" + d.colour; })
+      .style("fill-rule", "evenodd")
+      .each(stash);
+
+  arcs.append("text")                                     //add a label to each slice
+      .attr("dy",function(d,i){return 40;})
+      //.attr("transform", function(d) {                    //set the label's origin to the center of the arc
+      //we have to make sure to set these before calling arc.centroid
+      //d.innerRadius = 0;
+      //d.outerRadius = r;
+      //return "translate(" + arc.centroid(d) + ")";        //this gives us a pair of coordinates like [50, 50]
+  //})
+  .attr("text-anchor", "middle")                          //center the text on it's origin
+  .attr("alignment-baseline", "middle")
+  .append("textPath")
+  .attr("xlink:href",function(d,i){return "#s"+i;})
+  .attr("textLength",function(d,i){ return (i==0 || i==1 || i==11 || i==6 ) ? 150 : 100 ;})
+  .attr("startOffset",function(d,i){return  (i==0 || i==1 || i==11) ? 5/20 : 3/20;})
+  .style("fill", "white")
+  .text( function(d, i) { return d.name; });        //get the label from our original data array
+
+
+
+
+
+// Stash the old values for transition.
+function stash(d) {
+  d.x0 = d.x;
+  d.dx0 = d.dx;
+}
+
+d3.select(self.frameElement).style("height", height + "px");
+
+</script>
+
+
+

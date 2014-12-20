@@ -1,0 +1,542 @@
+{
+	"nodes": [{
+		"colour": "#888888",
+		"index": 0,
+		"name": "Balance"
+	},
+	{
+		"colour": "#888888",
+		"index": 1,
+		"name": "Other groups"
+	},
+	{
+		"colour": "#888888",
+		"index": 2,
+		"name": "Other groups"
+	},
+	{
+		"colour": "#7db3da",
+		"index": 3,
+		"name": "Liberal"
+	},
+	{
+		"colour": "#f3f781",
+		"index": 4,
+		"name": "Palmer United Party"
+	},
+	{
+		"colour": "#fff671",
+		"index": 5,
+		"name": "Liberal Democrats"
+	},
+	{
+		"colour": "#7dda7d",
+		"index": 6,
+		"name": "Australian Greens"
+	},
+	{
+		"colour": "#fe7b71",
+		"index": 7,
+		"name": "Australian Labor Party"
+	},
+	{
+		"colour": "#ff00ff",
+		"index": 8,
+		"name": "Sex Party"
+	},
+	{
+		"colour": "#7d32a0",
+		"index": 9,
+		"name": "Family First"
+	},
+	{
+		"colour": "#7401df",
+		"index": 10,
+		"name": "Shooters and Fishers"
+	},
+	{
+		"colour": "#444444",
+		"index": 11,
+		"name": "Australian Independents"
+	},
+	{
+		"colour": "#ff8000",
+		"index": 12,
+		"name": "DLP Democratic Labour"
+	},
+	{
+		"colour": "#666666",
+		"index": 13,
+		"name": "Pirate Party"
+	},
+	{
+		"colour": "#dba901",
+		"index": 14,
+		"name": "Help End Marijuana Prohibition (HEMP) Party"
+	},
+	{
+		"colour": "#ff00ff",
+		"index": 15,
+		"name": "Australian Christians"
+	},
+	{
+		"colour": "#3355EE",
+		"index": 16,
+		"name": "Stop The Greens"
+	},
+	{
+		"colour": "#44BB55",
+		"index": 17,
+		"name": "Katter's Australian Party"
+	},
+	{
+		"colour": "#7db3da",
+		"index": 18,
+		"name": "LP"
+	},
+	{
+		"colour": "#f3f781",
+		"index": 19,
+		"name": "PUP"
+	},
+	{
+		"colour": "#fff671",
+		"index": 20,
+		"name": "LDP"
+	},
+	{
+		"colour": "#7dda7d",
+		"index": 21,
+		"name": "GRN"
+	},
+	{
+		"colour": "#fe7b71",
+		"index": 22,
+		"name": "ALP"
+	},
+	{
+		"colour": "#ff00ff",
+		"index": 23,
+		"name": "ASXP"
+	},
+	{
+		"colour": "#7d32a0",
+		"index": 24,
+		"name": "FFP"
+	},
+	{
+		"colour": "#7401df",
+		"index": 25,
+		"name": "ASP"
+	},
+	{
+		"colour": "#444444",
+		"index": 26,
+		"name": "AIN"
+	},
+	{
+		"colour": "#ff8000",
+		"index": 27,
+		"name": "DLP"
+	},
+	{
+		"colour": "#666666",
+		"index": 28,
+		"name": "PIR"
+	},
+	{
+		"colour": "#dba901",
+		"index": 29,
+		"name": "HMP"
+	},
+	{
+		"colour": "#ff00ff",
+		"index": 30,
+		"name": "AUC"
+	},
+	{
+		"colour": "#3355EE",
+		"index": 31,
+		"name": "ODR"
+	},
+	{
+		"colour": "#44BB55",
+		"index": 32,
+		"name": "KAP"
+	},
+	{
+		"colour": "#7db3da",
+		"index": 33,
+		"name": "Richard COLBECK (1)"
+	},
+	{
+		"colour": "#fe7b71",
+		"index": 34,
+		"name": "Carol BROWN (2)"
+	},
+	{
+		"colour": "#7db3da",
+		"index": 35,
+		"name": "David BUSHBY (3)"
+	},
+	{
+		"colour": "#fe7b71",
+		"index": 36,
+		"name": "Catryna BILYK (4)"
+	},
+	{
+		"colour": "#7dda7d",
+		"index": 37,
+		"name": "Peter WHISH-WILSON (5)"
+	},
+	{
+		"colour": "#f3f781",
+		"index": 38,
+		"name": "Jacqui LAMBIE (6)"
+	}],
+	"links": [{
+		"source": 18,
+		"value": 39906,
+		"target": 0
+	},
+	{
+		"source": 2,
+		"value": 4532,
+		"target": 1
+	},
+	{
+		"source": 11,
+		"value": 2494,
+		"target": 26
+	},
+	{
+		"source": 8,
+		"value": 4873,
+		"target": 23
+	},
+	{
+		"source": 17,
+		"value": 1375,
+		"target": 32
+	},
+	{
+		"source": 13,
+		"value": 1954,
+		"target": 28
+	},
+	{
+		"source": 14,
+		"value": 1714,
+		"target": 29
+	},
+	{
+		"source": 10,
+		"value": 3697,
+		"target": 25
+	},
+	{
+		"source": 15,
+		"value": 1622,
+		"target": 30
+	},
+	{
+		"source": 12,
+		"value": 2598,
+		"target": 27
+	},
+	{
+		"source": 5,
+		"value": 7807,
+		"target": 20
+	},
+	{
+		"source": 9,
+		"value": 4403,
+		"target": 24
+	},
+	{
+		"source": 16,
+		"value": 1399,
+		"target": 31
+	},
+	{
+		"source": 19,
+		"value": 7434,
+		"target": 0
+	},
+	{
+		"source": 7,
+		"value": 48137,
+		"target": 34
+	},
+	{
+		"source": 7,
+		"value": 48137,
+		"target": 36
+	},
+	{
+		"source": 3,
+		"value": 48137,
+		"target": 33
+	},
+	{
+		"source": 3,
+		"value": 48137,
+		"target": 35
+	},
+	{
+		"source": 4,
+		"value": 22184,
+		"target": 38
+	},
+	{
+		"source": 6,
+		"value": 39284,
+		"target": 37
+	},
+	{
+		"source": 19,
+		"value": 25953,
+		"target": 38
+	},
+	{
+		"source": 21,
+		"value": 8853,
+		"target": 37
+	},
+	{
+		"source": 3,
+		"value": 30126,
+		"target": 18
+	},
+	{
+		"source": 7,
+		"value": 14343,
+		"target": 22
+	},
+	{
+		"source": 32,
+		"value": 1108,
+		"target": 26
+	},
+	{
+		"source": 29,
+		"value": 1547,
+		"target": 23
+	},
+	{
+		"source": 25,
+		"value": 101,
+		"target": 22
+	},
+	{
+		"source": 25,
+		"value": 187,
+		"target": 19
+	},
+	{
+		"source": 25,
+		"value": 108,
+		"target": 18
+	},
+	{
+		"source": 25,
+		"value": 2432,
+		"target": 20
+	},
+	{
+		"source": 25,
+		"value": 739,
+		"target": 24
+	},
+	{
+		"source": 25,
+		"value": 3422,
+		"target": 23
+	},
+	{
+		"source": 26,
+		"value": 109,
+		"target": 21
+	},
+	{
+		"source": 26,
+		"value": 1111,
+		"target": 20
+	},
+	{
+		"source": 26,
+		"value": 3234,
+		"target": 24
+	},
+	{
+		"source": 26,
+		"value": 259,
+		"target": 23
+	},
+	{
+		"source": 23,
+		"value": 488,
+		"target": 21
+	},
+	{
+		"source": 23,
+		"value": 1078,
+		"target": 19
+	},
+	{
+		"source": 23,
+		"value": 839,
+		"target": 18
+	},
+	{
+		"source": 23,
+		"value": 11793,
+		"target": 20
+	},
+	{
+		"source": 23,
+		"value": 266,
+		"target": 22
+	},
+	{
+		"source": 30,
+		"value": 1516,
+		"target": 24
+	},
+	{
+		"source": 27,
+		"value": 2406,
+		"target": 25
+	},
+	{
+		"source": 27,
+		"value": 862,
+		"target": 26
+	},
+	{
+		"source": 21,
+		"value": 118,
+		"target": 18
+	},
+	{
+		"source": 21,
+		"value": 5442,
+		"target": 19
+	},
+	{
+		"source": 21,
+		"value": 269,
+		"target": 20
+	},
+	{
+		"source": 28,
+		"value": 209,
+		"target": 23
+	},
+	{
+		"source": 28,
+		"value": 1661,
+		"target": 21
+	},
+	{
+		"source": 20,
+		"value": 5034,
+		"target": 18
+	},
+	{
+		"source": 20,
+		"value": 24431,
+		"target": 19
+	},
+	{
+		"source": 22,
+		"value": 12143,
+		"target": 21
+	},
+	{
+		"source": 22,
+		"value": 706,
+		"target": 18
+	},
+	{
+		"source": 22,
+		"value": 520,
+		"target": 20
+	},
+	{
+		"source": 22,
+		"value": 1682,
+		"target": 19
+	},
+	{
+		"source": 31,
+		"value": 1245,
+		"target": 20
+	},
+	{
+		"source": 24,
+		"value": 3322,
+		"target": 23
+	},
+	{
+		"source": 24,
+		"value": 231,
+		"target": 19
+	},
+	{
+		"source": 24,
+		"value": 2853,
+		"target": 18
+	},
+	{
+		"source": 24,
+		"value": 122,
+		"target": 22
+	},
+	{
+		"source": 24,
+		"value": 3752,
+		"target": 20
+	},
+	{
+		"source": 1,
+		"value": 114,
+		"target": 22
+	},
+	{
+		"source": 1,
+		"value": 891,
+		"target": 20
+	},
+	{
+		"source": 1,
+		"value": 364,
+		"target": 26
+	},
+	{
+		"source": 1,
+		"value": 784,
+		"target": 23
+	},
+	{
+		"source": 1,
+		"value": 708,
+		"target": 25
+	},
+	{
+		"source": 1,
+		"value": 127,
+		"target": 21
+	},
+	{
+		"source": 1,
+		"value": 862,
+		"target": 27
+	},
+	{
+		"source": 1,
+		"value": 108,
+		"target": 24
+	}]
+}

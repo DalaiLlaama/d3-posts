@@ -1,0 +1,31 @@
+{
+  "name": "sankey-diagram",
+  "version": "0.1.0",
+  "description": "D3.js sankey plugin exercise",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~3.4.x",
+    "d3": "~3.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/sankey"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+	"d3.js",
+	"sankey"
+  ],
+  "author": "Geoff Lamperd",
+  "contributors": [
+  ],
+  "license": "MIT"
+}

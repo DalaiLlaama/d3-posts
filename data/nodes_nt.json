@@ -1,0 +1,322 @@
+{
+	"nodes": [{
+		"colour": "#888888",
+		"index": 0,
+		"name": "Balance"
+	},
+	{
+		"colour": "#888888",
+		"index": 1,
+		"name": ""
+	},
+	{
+		"colour": "#888888",
+		"index": 2,
+		"name": ""
+	},
+	{
+		"colour": "#7db3da",
+		"index": 3,
+		"name": "Nigel SCULLION"
+	},
+	{
+		"colour": "#fe7b71",
+		"index": 4,
+		"name": "Nova PERIS"
+	},
+	{
+		"colour": "#7dda7d",
+		"index": 5,
+		"name": "GRN"
+	},
+	{
+		"colour": "#7db3da",
+		"index": 6,
+		"name": "CLP"
+	},
+	{
+		"colour": "#f3f781",
+		"index": 7,
+		"name": "PUP"
+	},
+	{
+		"colour": "#fe7b71",
+		"index": 8,
+		"name": "ALP"
+	},
+	{
+		"colour": "#7401df",
+		"index": 9,
+		"name": "ASP"
+	},
+	{
+		"colour": "#3d7802",
+		"index": 10,
+		"name": "AIN"
+	},
+	{
+		"colour": "#ff00ff",
+		"index": 11,
+		"name": "ASXP"
+	},
+	{
+		"colour": "#7d32a0",
+		"index": 12,
+		"name": "FNPP"
+	},
+	{
+		"colour": "#8765d3",
+		"index": 13,
+		"name": "RUA"
+	},
+	{
+		"colour": "#34d5f3",
+		"index": 14,
+		"name": "UNP"
+	},
+	{
+		"colour": "#8a4659",
+		"index": 15,
+		"name": "SPP"
+	},
+	{
+		"colour": "#e2a9f3",
+		"index": 16,
+		"name": "CEC"
+	},
+	{
+		"colour": "#7dda7d",
+		"index": 17,
+		"name": "Australian Greens"
+	},
+	{
+		"colour": "#7db3da",
+		"index": 18,
+		"name": "Country Liberals (NT)"
+	},
+	{
+		"colour": "#f3f781",
+		"index": 19,
+		"name": "Palmer United Party"
+	},
+	{
+		"colour": "#fe7b71",
+		"index": 20,
+		"name": "Australian Labor Party (Northern Territory) Branch"
+	},
+	{
+		"colour": "#7401df",
+		"index": 21,
+		"name": "Shooters and Fishers"
+	},
+	{
+		"colour": "#3d7802",
+		"index": 22,
+		"name": "Australian Independents"
+	},
+	{
+		"colour": "#ff00ff",
+		"index": 23,
+		"name": "Sex Party"
+	},
+	{
+		"colour": "#7d32a0",
+		"index": 24,
+		"name": "A.F.N.P.P."
+	},
+	{
+		"colour": "#8765d3",
+		"index": 25,
+		"name": "Rise Up Australia Party"
+	},
+	{
+		"colour": "#34d5f3",
+		"index": 26,
+		"name": "Uniting Australia Party"
+	},
+	{
+		"colour": "#8a4659",
+		"index": 27,
+		"name": "Stable Population Party"
+	},
+	{
+		"colour": "#e2a9f3",
+		"index": 28,
+		"name": "Citizens Electoral Council"
+	}],
+	"links": [{
+		"source": 21,
+		"value": 2814,
+		"target": 9
+	},
+	{
+		"source": 25,
+		"value": 975,
+		"target": 13
+	},
+	{
+		"source": 17,
+		"value": 8974,
+		"target": 5
+	},
+	{
+		"source": 22,
+		"value": 1544,
+		"target": 10
+	},
+	{
+		"source": 23,
+		"value": 2203,
+		"target": 11
+	},
+	{
+		"source": 28,
+		"value": 307,
+		"target": 16
+	},
+	{
+		"source": 19,
+		"value": 7386,
+		"target": 7
+	},
+	{
+		"source": 26,
+		"value": 656,
+		"target": 14
+	},
+	{
+		"source": 27,
+		"value": 455,
+		"target": 15
+	},
+	{
+		"source": 24,
+		"value": 1495,
+		"target": 12
+	},
+	{
+		"source": 18,
+		"value": 34494,
+		"target": 3
+	},
+	{
+		"source": 20,
+		"value": 33889,
+		"target": 4
+	},
+	{
+		"source": 8,
+		"value": 605,
+		"target": 4
+	},
+	{
+		"source": 7,
+		"value": 12915,
+		"target": 0
+	},
+	{
+		"source": 6,
+		"value": 8591,
+		"target": 0
+	},
+	{
+		"source": 5,
+		"value": 11549,
+		"target": 0
+	},
+	{
+		"source": 8,
+		"value": 1386,
+		"target": 0
+	},
+	{
+		"source": 18,
+		"value": 8287,
+		"target": 6
+	},
+	{
+		"source": 13,
+		"value": 823,
+		"target": 10
+	},
+	{
+		"source": 10,
+		"value": 2371,
+		"target": 9
+	},
+	{
+		"source": 10,
+		"value": 540,
+		"target": 7
+	},
+	{
+		"source": 10,
+		"value": 219,
+		"target": 5
+	},
+	{
+		"source": 8,
+		"value": 130,
+		"target": 5
+	},
+	{
+		"source": 16,
+		"value": 265,
+		"target": 12
+	},
+	{
+		"source": 11,
+		"value": 1962,
+		"target": 9
+	},
+	{
+		"source": 11,
+		"value": 129,
+		"target": 5
+	},
+	{
+		"source": 9,
+		"value": 105,
+		"target": 6
+	},
+	{
+		"source": 9,
+		"value": 2063,
+		"target": 8
+	},
+	{
+		"source": 9,
+		"value": 3658,
+		"target": 7
+	},
+	{
+		"source": 9,
+		"value": 1976,
+		"target": 5
+	},
+	{
+		"source": 14,
+		"value": 601,
+		"target": 9
+	},
+	{
+		"source": 12,
+		"value": 1253,
+		"target": 7
+	},
+	{
+		"source": 15,
+		"value": 371,
+		"target": 12
+	},
+	{
+		"source": 12,
+		"value": 136,
+		"target": 5
+	},
+	{
+		"source": 12,
+		"value": 646,
+		"target": 10
+	}]
+}

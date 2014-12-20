@@ -1,0 +1,12 @@
+Palmer United Party;PUP;CLP, AIN, RUA, CEC, GRN, ASXP, ASP, FNPP, SPP, ALP, UNP
+Uniting Australia Party;UNP;ASP, ASXP, SPP, CEC, RUA, FNPP, AIN, GRN, PUP, ALP, CLP
+Stable Population Party;SPP;FNPP, AIN, UNP, ASXP, PUP, GRN, ALP, CLP, ASP, RUA, CEC
+A.F.N.P.P.;FNPP;SPP, PUP, UNP, ASP, ASXP, CEC, RUA, AIN, GRN, CLP, ALP
+Country Liberals (NT);CLP;FNPP, PUP, ASP, UNP, SPP, AIN, ASXP, CEC, ALP, GRN, RUA
+Australian Labor Party (Northern Territory) Branch;ALP;GRN, ASXP, FNPP, AIN, PUP, UNP, SPP, ASP, CLP, CEC, RUA
+Sex Party;ASXP;ASP, FNPP, SPP, AIN, ALP, GRN, CLP, UNP, PUP, CEC, RUA
+Citizens Electoral Council;CEC;FNPP, AIN, UNP, ASP, RUA, ALP, PUP, CLP, SPP, ASXP, GRN
+Shooters and Fishers;ASP;ASXP, AIN, FNPP, SPP, UNP, RUA, CEC, PUP, CLP, ALP, GRN
+Rise Up Australia Party;RUA;UNP, AIN, FNPP, ASP, PUP, CLP, CEC, SPP, ALP, ASXP, GRN
+Australian Greens;GRN;FNPP, AIN, SPP, ASXP, ALP, PUP, UNP, RUA, ASP, CLP, CEC
+Australian Independents;AIN;ASXP, SPP, ASP, RUA, FNPP, UNP, GRN, PUP, CEC, CLP, ALP

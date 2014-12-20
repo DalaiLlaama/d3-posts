@@ -1,0 +1,692 @@
+{
+	"nodes": [{
+		"colour": "#888888",
+		"index": 0,
+		"name": "Balance"
+	},
+	{
+		"colour": "#888888",
+		"index": 1,
+		"name": "Other groups"
+	},
+	{
+		"colour": "#888888",
+		"index": 2,
+		"name": "Other groups"
+	},
+	{
+		"colour": "#7db3da",
+		"index": 3,
+		"name": "Ian MACDONALD (1)"
+	},
+	{
+		"colour": "#fe7b71",
+		"index": 4,
+		"name": "Chris KETTER (2)"
+	},
+	{
+		"colour": "#7db3da",
+		"index": 5,
+		"name": "James McGRATH (3)"
+	},
+	{
+		"colour": "#fe7b71",
+		"index": 6,
+		"name": "Claire MOORE (4)"
+	},
+	{
+		"colour": "#f3f781",
+		"index": 7,
+		"name": "Glenn Patrick LAZARUS (5)"
+	},
+	{
+		"colour": "#7db3da",
+		"index": 8,
+		"name": "Matthew CANAVAN (6)"
+	},
+	{
+		"colour": "#7dda7d",
+		"index": 9,
+		"name": "The Greens"
+	},
+	{
+		"colour": "#7db3da",
+		"index": 10,
+		"name": "Liberal National Party of Queensland"
+	},
+	{
+		"colour": "#dba901",
+		"index": 11,
+		"name": "Help End Marijuana Prohibition (HEMP) Party"
+	},
+	{
+		"colour": "#f3f781",
+		"index": 12,
+		"name": "Palmer United Party"
+	},
+	{
+		"colour": "#44BB55",
+		"index": 13,
+		"name": "Katter's Australian Party"
+	},
+	{
+		"colour": "#223344",
+		"index": 14,
+		"name": "Australian Fishing and Lifestyle Party"
+	},
+	{
+		"colour": "#ff00ff",
+		"index": 15,
+		"name": "Sex Party"
+	},
+	{
+		"colour": "#f5da81",
+		"index": 16,
+		"name": "One Nation"
+	},
+	{
+		"colour": "#7d32a0",
+		"index": 17,
+		"name": "Family First"
+	},
+	{
+		"colour": "#fff671",
+		"index": 18,
+		"name": "Liberal Democrats"
+	},
+	{
+		"colour": "#fe7b71",
+		"index": 19,
+		"name": "Australian Labor Party"
+	},
+	{
+		"colour": "#01dfa5",
+		"index": 20,
+		"name": "Animal Justice Party"
+	},
+	{
+		"colour": "#665544",
+		"index": 21,
+		"name": "Australian Independents"
+	},
+	{
+		"colour": "#b40431",
+		"index": 22,
+		"name": "Australian Motoring Enthusiast Party"
+	},
+	{
+		"colour": "#7401df",
+		"index": 23,
+		"name": "Shooters and Fishers"
+	},
+	{
+		"colour": "#7dda7d",
+		"index": 24,
+		"name": "GRN"
+	},
+	{
+		"colour": "#7db3da",
+		"index": 25,
+		"name": "LNP"
+	},
+	{
+		"colour": "#dba901",
+		"index": 26,
+		"name": "HMP"
+	},
+	{
+		"colour": "#f3f781",
+		"index": 27,
+		"name": "PUP"
+	},
+	{
+		"colour": "#44BB55",
+		"index": 28,
+		"name": "KAP"
+	},
+	{
+		"colour": "#223344",
+		"index": 29,
+		"name": "AFLP"
+	},
+	{
+		"colour": "#ff00ff",
+		"index": 30,
+		"name": "ASXP"
+	},
+	{
+		"colour": "#f5da81",
+		"index": 31,
+		"name": "ON"
+	},
+	{
+		"colour": "#7d32a0",
+		"index": 32,
+		"name": "FFP"
+	},
+	{
+		"colour": "#fff671",
+		"index": 33,
+		"name": "LDP"
+	},
+	{
+		"colour": "#fe7b71",
+		"index": 34,
+		"name": "ALP"
+	},
+	{
+		"colour": "#01dfa5",
+		"index": 35,
+		"name": "AJP"
+	},
+	{
+		"colour": "#665544",
+		"index": 36,
+		"name": "AIN"
+	},
+	{
+		"colour": "#b40431",
+		"index": 37,
+		"name": "AMEP"
+	},
+	{
+		"colour": "#7401df",
+		"index": 38,
+		"name": "ASP"
+	}],
+	"links": [{
+		"source": 2,
+		"value": 89054,
+		"target": 1
+	},
+	{
+		"source": 18,
+		"value": 18201,
+		"target": 33
+	},
+	{
+		"source": 11,
+		"value": 23624,
+		"target": 26
+	},
+	{
+		"source": 16,
+		"value": 14348,
+		"target": 31
+	},
+	{
+		"source": 20,
+		"value": 27984,
+		"target": 35
+	},
+	{
+		"source": 21,
+		"value": 12448,
+		"target": 36
+	},
+	{
+		"source": 13,
+		"value": 76918,
+		"target": 28
+	},
+	{
+		"source": 17,
+		"value": 28644,
+		"target": 32
+	},
+	{
+		"source": 9,
+		"value": 158150,
+		"target": 24
+	},
+	{
+		"source": 15,
+		"value": 29380,
+		"target": 30
+	},
+	{
+		"source": 14,
+		"value": 13394,
+		"target": 29
+	},
+	{
+		"source": 22,
+		"value": 18742,
+		"target": 37
+	},
+	{
+		"source": 23,
+		"value": 18235,
+		"target": 38
+	},
+	{
+		"source": 24,
+		"value": 312505,
+		"target": 0
+	},
+	{
+		"source": 25,
+		"value": 57486,
+		"target": 0
+	},
+	{
+		"source": 33,
+		"value": 129,
+		"target": 24
+	},
+	{
+		"source": 33,
+		"value": 30450,
+		"target": 28
+	},
+	{
+		"source": 33,
+		"value": 1934,
+		"target": 26
+	},
+	{
+		"source": 33,
+		"value": 187,
+		"target": 25
+	},
+	{
+		"source": 31,
+		"value": 346,
+		"target": 25
+	},
+	{
+		"source": 31,
+		"value": 13867,
+		"target": 26
+	},
+	{
+		"source": 34,
+		"value": 134,
+		"target": 24
+	},
+	{
+		"source": 31,
+		"value": 431,
+		"target": 28
+	},
+	{
+		"source": 31,
+		"value": 132,
+		"target": 24
+	},
+	{
+		"source": 36,
+		"value": 128,
+		"target": 25
+	},
+	{
+		"source": 36,
+		"value": 146,
+		"target": 35
+	},
+	{
+		"source": 26,
+		"value": 64849,
+		"target": 25
+	},
+	{
+		"source": 36,
+		"value": 6453,
+		"target": 32
+	},
+	{
+		"source": 36,
+		"value": 108,
+		"target": 28
+	},
+	{
+		"source": 36,
+		"value": 269,
+		"target": 24
+	},
+	{
+		"source": 36,
+		"value": 167,
+		"target": 34
+	},
+	{
+		"source": 36,
+		"value": 14842,
+		"target": 26
+	},
+	{
+		"source": 26,
+		"value": 113978,
+		"target": 24
+	},
+	{
+		"source": 35,
+		"value": 26332,
+		"target": 30
+	},
+	{
+		"source": 35,
+		"value": 118,
+		"target": 27
+	},
+	{
+		"source": 32,
+		"value": 320,
+		"target": 31
+	},
+	{
+		"source": 32,
+		"value": 3180,
+		"target": 28
+	},
+	{
+		"source": 32,
+		"value": 188,
+		"target": 24
+	},
+	{
+		"source": 32,
+		"value": 1799,
+		"target": 25
+	},
+	{
+		"source": 28,
+		"value": 817,
+		"target": 24
+	},
+	{
+		"source": 28,
+		"value": 570,
+		"target": 26
+	},
+	{
+		"source": 28,
+		"value": 12148,
+		"target": 25
+	},
+	{
+		"source": 31,
+		"value": 26592,
+		"target": 29
+	},
+	{
+		"source": 31,
+		"value": 257,
+		"target": 27
+	},
+	{
+		"source": 32,
+		"value": 571,
+		"target": 27
+	},
+	{
+		"source": 32,
+		"value": 32958,
+		"target": 29
+	},
+	{
+		"source": 28,
+		"value": 107989,
+		"target": 27
+	},
+	{
+		"source": 35,
+		"value": 636,
+		"target": 24
+	},
+	{
+		"source": 35,
+		"value": 153,
+		"target": 31
+	},
+	{
+		"source": 35,
+		"value": 438,
+		"target": 25
+	},
+	{
+		"source": 35,
+		"value": 431,
+		"target": 26
+	},
+	{
+		"source": 35,
+		"value": 220,
+		"target": 34
+	},
+	{
+		"source": 1,
+		"value": 1120,
+		"target": 37
+	},
+	{
+		"source": 1,
+		"value": 2230,
+		"target": 27
+	},
+	{
+		"source": 1,
+		"value": 20876,
+		"target": 29
+	},
+	{
+		"source": 1,
+		"value": 2873,
+		"target": 30
+	},
+	{
+		"source": 1,
+		"value": 211,
+		"target": 38
+	},
+	{
+		"source": 1,
+		"value": 7865,
+		"target": 26
+	},
+	{
+		"source": 1,
+		"value": 9950,
+		"target": 36
+	},
+	{
+		"source": 1,
+		"value": 391,
+		"target": 35
+	},
+	{
+		"source": 1,
+		"value": 1281,
+		"target": 25
+	},
+	{
+		"source": 1,
+		"value": 14612,
+		"target": 33
+	},
+	{
+		"source": 1,
+		"value": 1103,
+		"target": 34
+	},
+	{
+		"source": 1,
+		"value": 8852,
+		"target": 31
+	},
+	{
+		"source": 1,
+		"value": 3854,
+		"target": 32
+	},
+	{
+		"source": 1,
+		"value": 13507,
+		"target": 24
+	},
+	{
+		"source": 1,
+		"value": 553,
+		"target": 28
+	},
+	{
+		"source": 38,
+		"value": 163,
+		"target": 28
+	},
+	{
+		"source": 30,
+		"value": 287,
+		"target": 25
+	},
+	{
+		"source": 30,
+		"value": 54534,
+		"target": 26
+	},
+	{
+		"source": 30,
+		"value": 3131,
+		"target": 24
+	},
+	{
+		"source": 30,
+		"value": 224,
+		"target": 28
+	},
+	{
+		"source": 38,
+		"value": 122,
+		"target": 30
+	},
+	{
+		"source": 38,
+		"value": 17765,
+		"target": 29
+	},
+	{
+		"source": 30,
+		"value": 540,
+		"target": 29
+	},
+	{
+		"source": 30,
+		"value": 445,
+		"target": 27
+	},
+	{
+		"source": 29,
+		"value": 5395,
+		"target": 25
+	},
+	{
+		"source": 27,
+		"value": 9547,
+		"target": 25
+	},
+	{
+		"source": 29,
+		"value": 8487,
+		"target": 28
+	},
+	{
+		"source": 29,
+		"value": 176,
+		"target": 24
+	},
+	{
+		"source": 29,
+		"value": 61387,
+		"target": 26
+	},
+	{
+		"source": 37,
+		"value": 124,
+		"target": 25
+	},
+	{
+		"source": 27,
+		"value": 2921,
+		"target": 26
+	},
+	{
+		"source": 27,
+		"value": 21329,
+		"target": 24
+	},
+	{
+		"source": 37,
+		"value": 968,
+		"target": 28
+	},
+	{
+		"source": 37,
+		"value": 17880,
+		"target": 31
+	},
+	{
+		"source": 37,
+		"value": 178,
+		"target": 30
+	},
+	{
+		"source": 37,
+		"value": 232,
+		"target": 29
+	},
+	{
+		"source": 37,
+		"value": 251,
+		"target": 27
+	},
+	{
+		"source": 29,
+		"value": 36985,
+		"target": 27
+	},
+	{
+		"source": 10,
+		"value": 374209,
+		"target": 3
+	},
+	{
+		"source": 10,
+		"value": 374209,
+		"target": 5
+	},
+	{
+		"source": 10,
+		"value": 335881,
+		"target": 8
+	},
+	{
+		"source": 19,
+		"value": 374209,
+		"target": 4
+	},
+	{
+		"source": 19,
+		"value": 372887,
+		"target": 6
+	},
+	{
+		"source": 12,
+		"value": 258944,
+		"target": 7
+	},
+	{
+		"source": 25,
+		"value": 38328,
+		"target": 8
+	},
+	{
+		"source": 34,
+		"value": 1322,
+		"target": 6
+	},
+	{
+		"source": 27,
+		"value": 115265,
+		"target": 7
+	}]
+}

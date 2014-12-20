@@ -1,0 +1,14 @@
+Animal Justice Party;AJP;SPP, BTA, AIN, VEP, ASXP, DRF, RUA, PUP, ALP, LP, KAP, IND, GRN
+Katter's Australian Party;KAP;BTA, PUP, AIN, RUA, AJP, SPP, DRF, GRN, LP, ALP, ASXP, IND, VEP
+Australian Greens;GRN;BTA, DRF, VEP, ASXP, AIN, KAP, ALP, IND, PUP, SPP, AJP, LP, RUA
+Stable Population Party;SPP;AIN, BTA, AJP, DRF, VEP, ASXP, KAP, IND, ALP, LP, GRN, PUP, RUA
+Bullet Train For Australia;BTA;IND, AIN, SPP, AJP, VEP, DRF, ASXP, GRN, KAP, PUP, ALP, LP, RUA
+Drug Law Reform;DRF;ASXP, GRN, ALP, LP, AIN, IND, VEP, PUP, RUA, AJP, SPP, BTA, KAP
+Sex Party;ASXP;VEP, DRF, AJP, BTA, SPP, AIN, GRN, ALP, KAP, PUP, LP, IND, RUA
+Rise Up Australia Party;RUA;BTA, AIN, LP, PUP, SPP, KAP, AJP, ALP, DRF, VEP, ASXP, GRN, IND
+Voluntary Euthanasia Party;VEP;ASXP, AIN, SPP, DRF, AJP, BTA, PUP, GRN, ALP, KAP, RUA, LP, IND
+Palmer United Party;PUP;AIN, IND, RUA, BTA, ASXP, AJP, KAP, VEP, GRN, SPP, LP, ALP, DRF
+Liberal;LP;BTA, SPP, AJP, KAP, PUP, RUA, AIN, DRF, ASXP, IND, VEP, ALP, GRN
+Australian Labor Party;ALP;GRN, BTA, KAP, ASXP, AJP, DRF, VEP, PUP, SPP, IND, AIN, RUA, LP
+Australian Independents;AIN;ASXP, DRF, VEP, BTA, AJP, SPP, RUA, KAP, PUP, IND, GRN, LP, ALP
+Independents;IND;ASXP, DRF, VEP, BTA, AJP, SPP, RUA, KAP, PUP, AIN, GRN, LP, ALP
