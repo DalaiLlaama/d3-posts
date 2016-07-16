@@ -1,0 +1,9 @@
+{
+  "firebase": "vizit",
+  "public": "_site",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
