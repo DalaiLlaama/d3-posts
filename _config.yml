@@ -4,7 +4,7 @@ email: "&#103;&#108;&#97;&#109;&#112;&#101;&#114;&#100;&#64;&#103;&#109;&#97;&#1
 description: > # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://vizit.divshot.com" # the base hostname & protocol for your site
+url: "http://vizit.firebaseapp.com" # the base hostname & protocol for your site
 twitter_username: glamperd
 github_username:  DalaiLlaama
 

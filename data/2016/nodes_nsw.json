@@ -1,0 +1,389 @@
+{
+	"nodes": [
+	{ "colour": "#888888",
+		"index": 0,
+		"name": "Exhausted"	},
+{ "colour": "#7db3da", "index":1,"name": "Liberal & Nationals" },
+{ "colour": "#fe2e2e", "index":2,"name": "Labor" },
+{ "colour": "#01df01", "index":3,"name": "The Greens" },
+{ "colour": "#f4f4f4", "index":4,"name": "Pauline Hanson's One Nation" },
+{ "colour": "#f8f808", "index":5,"name": "Liberal Democrats" },
+{ "colour": "#E39B91", "index":6,"name": "Christian Democratic Party (Fred Nile Group)" },
+{ "colour": "#9DD8A0", "index":7,"name": "Shooters, Fishers and Farmers" },
+{ "colour": "#0000ff", "index":8,"name": "Nick Xenophon Team" },
+{ "colour": "#C7ACEC", "index":9,"name": "Health Australia Party" },
+{ "colour": "#00C2ED", "index":10,"name": "Family First" },
+{ "colour": "#A43E12", "index":11,"name": "Democratic Labour Party (DLP)" },
+{ "colour": "#496C4D", "index":12,"name": "Animal Justice Party" },
+{ "colour": "#dba902", "index":13,"name": "Australian Sex Party" },
+{ "colour": "#1F599F", "index":14,"name": "Australian Liberty Alliance" },
+{ "colour": "#dba906", "index":15,"name": "Marijuana (HEMP) Party" },
+{ "colour": "#FA7D08", "index":16,"name": "Derryn Hinch's Justice Party" },
+{ "colour": "#dba908", "index":17,"name": "Seniors United Party of Australia" },
+{ "colour": "#dba909", "index":18,"name": "Drug Law Reform" },
+{ "colour": "#dba910", "index":19,"name": "Science Party\/Cyclists Party" },
+{ "colour": "#dba911", "index":20,"name": "Jacqui Lambie Network" },
+{ "colour": "#dba912", "index":21,"name": "Australian Motoring Enthusiast Party" },
+{ "colour": "#dba913", "index":22,"name": "Voluntary Euthanasia Party" },
+{ "colour": "#888888", "index":23,"name": "Other" },
+
+{ "colour": "#7db3da", "index":24,"name": "1. Marise PAYNE" },
+{ "colour": "#7db3da", "index":25,"name": "3. Arthur SINODINOS" },
+{ "colour": "#7db3da", "index":26,"name": "5. Fiona NASH" },
+{ "colour": "#7db3da", "index":27,"name": "7. Concetta FIERRAVANTI-WELLS" },
+{ "colour": "#fe2e2e", "index":28,"name": "2. Sam DASTYARI" },
+{ "colour": "#fe2e2e", "index":29,"name": "4. Jenny McALLISTER" },
+{ "colour": "#fe2e2e", "index":30,"name": "6. Deborah O'NEILL" },
+{ "colour": "#fe2e2e", "index":31,"name": "8. Doug CAMERON" },
+{ "colour": "#01df01", "index":32,"name": "9. Lee RHIANNON" },
+{ "colour": "#7db3da", "index":33,"name": "10. John WILLIAMS" },
+{ "colour": "#f4f4f4", "index":34,"name": "11. Brian BURSTON" },
+{ "colour": "#f8f808", "index":35,"name": "12. David LEYONHJELM" },
+{ "colour": "#0", "index":36,"name": "" },
+
+
+{ "colour": "#7db3da", "index":37,"name": "LPNP" },
+{ "colour": "#fe2e2e", "index":38,"name": "ALP" },
+{ "colour": "#01df01", "index":39,"name": "GRN" },
+{ "colour": "#f4f4f4", "index":40,"name": "ON" },
+{ "colour": "#f8f808", "index":41,"name": "LDP" },
+{ "colour": "#E39B91", "index":42,"name": "CDP" },
+{ "colour": "#9DD8A0", "index":43,"name": "ASP" },
+{ "colour": "#0000ff", "index":44,"name": "XEN" },
+{ "colour": "#C7ACEC", "index":45,"name": "NMP" },
+{ "colour": "#00C2ED", "index":46,"name": "FFP" },
+{ "colour": "#A43E12", "index":47,"name": "DLP" },
+{ "colour": "#496C4D", "index":48,"name": "AJP" },
+{ "colour": "#dba902", "index":49,"name": "ASXP" },
+{ "colour": "#1F599F", "index":50,"name": "ALA" },
+{ "colour": "#dba906", "index":51,"name": "HMP" },
+{ "colour": "#888888", "index":52,"name": "Other" }
+
+],
+	"links": [
+{ "source":1, "value": 228410, "target": 37 },
+{ "source":2, "value": 22872, "target": 38 },
+{ "source":3, "value": 332860, "target": 39 },
+{ "source":4, "value": 184012, "target": 40 },
+{ "source":5, "value": 139007, "target": 41 },
+{ "source":6, "value": 121379, "target": 42 },
+{ "source":7, "value": 88837, "target": 43 },
+{ "source":8, "value": 80111, "target": 44 },
+{ "source":9, "value": 53154, "target": 45 },
+{ "source":10, "value": 53027, "target": 46 },
+{ "source":11, "value": 51510, "target": 47 },
+{ "source":12, "value": 37991, "target": 48 },
+{ "source":13, "value": 30038, "target": 49 },
+{ "source":14, "value": 29795, "target": 50 },
+{ "source":15, "value": 29510, "target": 51 },
+{ "source":16, "value": 26720, "target": 52 },
+{ "source":17, "value": 22213, "target": 52 },
+{ "source":18, "value": 20883, "target": 52 },
+{ "source":19, "value": 18367, "target": 52 },
+{ "source":20, "value": 16502, "target": 52 },
+{ "source":21, "value": 16356, "target": 52 },
+{ "source":22, "value": 15198, "target": 52 },
+{ "source":23, "value": 109013, "target": 52 },
+
+
+{ "source":1, "value": 345554, "target": 24 },
+{ "source":1, "value": 345554, "target": 25 },
+{ "source":1, "value": 345554, "target": 26 },
+{ "source":1, "value": 345554, "target": 27 },
+{ "source":2, "value": 345554, "target": 28 },
+{ "source":2, "value": 345554, "target": 29 },
+{ "source":2, "value": 345554, "target": 30 },
+{ "source":2, "value": 345554, "target": 31 },
+{ "source":39, "value": 345554, "target": 32 },
+{ "source":37, "value": 345554, "target": 33 },
+{ "source":40, "value": 345554, "target": 34 },
+{ "source":41, "value": 275766, "target": 35 },
+
+{ "source":38, "value": 4657, "target": 37 },
+
+
+
+{ "source":42, "value": 82492, "target": 37 },
+{ "source":43, "value": 24258, "target": 37 },
+{ "source":44, "value": 29174, "target": 37 },
+{ "source":45, "value": 5626, "target": 37 },
+{ "source":46, "value": 16846, "target": 37 },
+{ "source":47, "value": 8429, "target": 37 },
+{ "source":48, "value": 8106, "target": 37 },
+{ "source":49, "value": 5608, "target": 37 },
+{ "source":50, "value": 3869, "target": 37 },
+{ "source":51, "value": 2876, "target": 37 },
+
+{ "source":52, "value": 7419, "target": 37 },
+
+{ "source":50, "value": 1128, "target": 38 },
+
+
+
+
+
+
+
+
+{ "source":52, "value": 21208, "target": 38 },
+{ "source":52, "value": 12694, "target": 39 },
+{ "source":38, "value": 3703, "target": 40 },
+
+
+
+{ "source":42, "value": 18043, "target": 40 },
+{ "source":43, "value": 42760, "target": 40 },
+{ "source":44, "value": 16723, "target": 40 },
+{ "source":45, "value": 4218, "target": 40 },
+{ "source":46, "value": 11935, "target": 40 },
+{ "source":47, "value": 7237, "target": 40 },
+{ "source":48, "value": 9759, "target": 40 },
+{ "source":49, "value": 5822, "target": 40 },
+{ "source":50, "value": 9922, "target": 40 },
+{ "source":51, "value": 3310, "target": 40 },
+
+
+
+
+
+
+
+{ "source":52, "value": 28110, "target": 40 },
+{ "source":37, "value": 45754, "target": 41 },
+{ "source":38, "value": 1174, "target": 41 },
+
+{ "source":40, "value": 916, "target": 41 },
+
+{ "source":42, "value": 23049, "target": 41 },
+{ "source":43, "value": 9730, "target": 41 },
+{ "source":44, "value": 7384, "target": 41 },
+{ "source":45, "value": 5118, "target": 41 },
+{ "source":46, "value": 21075, "target": 41 },
+{ "source":47, "value": 5177, "target": 41 },
+{ "source":48, "value": 3834, "target": 41 },
+{ "source":49, "value": 1911, "target": 41 },
+{ "source":50, "value": 1560, "target": 41 },
+{ "source":51, "value": 980, "target": 41 },
+{ "source":38, "value": 598, "target": 42 },
+
+
+
+
+{ "source":43, "value": 6970, "target": 42 },
+{ "source":44, "value": 6832, "target": 42 },
+{ "source":45, "value": 1024, "target": 42 },
+{ "source":46, "value": 9861, "target": 42 },
+{ "source":47, "value": 2591, "target": 42 },
+{ "source":48, "value": 2965, "target": 42 },
+{ "source":49, "value": 1086, "target": 42 },
+{ "source":50, "value": 2543, "target": 42 },
+{ "source":51, "value": 716, "target": 42 },
+
+
+
+
+
+
+
+{ "source":52, "value": 10915, "target": 42 },
+{ "source":38, "value": 2056, "target": 43 },
+
+
+
+
+
+{ "source":44, "value": 4712, "target": 43 },
+{ "source":45, "value": 3633, "target": 43 },
+{ "source":46, "value": 14714, "target": 43 },
+{ "source":47, "value": 7627, "target": 43 },
+{ "source":48, "value": 6437, "target": 43 },
+{ "source":49, "value": 8657, "target": 43 },
+{ "source":50, "value": 1136, "target": 43 },
+{ "source":51, "value": 4229, "target": 43 },
+
+
+
+
+
+
+
+{ "source":52, "value": 14346, "target": 43 },
+{ "source":38, "value": 3656, "target": 44 },
+
+
+
+
+
+
+{ "source":45, "value": 1537, "target": 44 },
+{ "source":46, "value": 1870, "target": 44 },
+{ "source":47, "value": 1726, "target": 44 },
+{ "source":48, "value": 6969, "target": 44 },
+{ "source":49, "value": 6260, "target": 44 },
+{ "source":50, "value": 1402, "target": 44 },
+{ "source":51, "value": 2266, "target": 44 },
+
+
+
+
+
+
+
+{ "source":52, "value": 18165, "target": 44 },
+{ "source":38, "value": 1773, "target": 45 },
+
+
+
+
+
+
+
+
+{ "source":47, "value": 5368, "target": 45 },
+
+
+{ "source":50, "value": 347, "target": 45 },
+{ "source":51, "value": 2160, "target": 45 },
+
+
+
+
+
+
+
+{ "source":52, "value": 10167, "target": 45 },
+{ "source":38, "value": 1760, "target": 46 },
+
+
+
+
+
+
+{ "source":45, "value": 30115, "target": 46 },
+
+{ "source":47, "value": 7036, "target": 46 },
+{ "source":48, "value": 9224, "target": 46 },
+{ "source":49, "value": 4235, "target": 46 },
+{ "source":50, "value": 4836, "target": 46 },
+{ "source":51, "value": 1855, "target": 46 },
+
+
+
+
+
+
+
+{ "source":52, "value": 9692, "target": 46 },
+{ "source":38, "value": 2790, "target": 47 },
+
+
+
+
+
+
+
+
+
+
+
+{ "source":50, "value": 247, "target": 47 },
+{ "source":51, "value": 1028, "target": 47 },
+
+
+
+
+
+
+
+{ "source":52, "value": 8025, "target": 47 },
+{ "source":38, "value": 4209, "target": 48 },
+
+
+
+
+
+
+{ "source":45, "value": 6680, "target": 48 },
+
+{ "source":47, "value": 3852, "target": 48 },
+
+{ "source":49, "value": 16674, "target": 48 },
+{ "source":50, "value": 990, "target": 48 },
+{ "source":51, "value": 7202, "target": 48 },
+
+
+
+
+
+
+
+{ "source":52, "value": 20354, "target": 48 },
+{ "source":38, "value": 2867, "target": 49 },
+
+
+
+
+
+
+{ "source":45, "value": 2665, "target": 49 },
+
+{ "source":47, "value": 2329, "target": 49 },
+
+
+{ "source":50, "value": 689, "target": 49 },
+{ "source":51, "value": 17037, "target": 49 },
+
+
+
+
+
+
+
+{ "source":52, "value": 20705, "target": 49 },
+{ "source":52, "value": 2812, "target": 50 },
+{ "source":38, "value": 1825, "target": 51 },
+
+
+
+
+
+
+
+
+
+
+
+{ "source":50, "value": 1339, "target": 51 },
+
+
+
+
+
+
+
+
+{ "source":52, "value": 19363, "target": 51 },
+{ "source":50, "value": 936, "target": 39 },
+
+
+{ "source":37, "value": 36462, "target": 0 },
+{ "source":38, "value": 14203, "target": 0 },
+
+{ "source":40, "value": 7358, "target": 0 },
+
+{ "source":42, "value": 43987, "target": 0 },
+{ "source":43, "value": 72757, "target": 0 },
+{ "source":44, "value": 59239, "target": 0 },
+{ "source":45, "value": 12414, "target": 0 },
+{ "source":46, "value": 45549, "target": 0 },
+{ "source":47, "value": 12278, "target": 0 },
+{ "source":48, "value": 50742, "target": 0 },
+{ "source":49, "value": 26143, "target": 0 },
+{ "source":50, "value": 1675, "target": 0 },
+{ "source":51, "value": 8401, "target": 0 },
+{ "source":52, "value": 23448, "target": 0 }
+
+
+
+]
+}

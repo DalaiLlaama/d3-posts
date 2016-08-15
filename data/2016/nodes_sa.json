@@ -1,0 +1,231 @@
+{
+	"nodes": [
+{ "colour": "#7db3da", "index":0,"name": "Liberal" },
+{ "colour": "#fe2e2e", "index":1,"name": "Australian Labor Party" },
+{ "colour": "#0000ff", "index":2,"name": "Nick Xenophon Team" },
+{ "colour": "#01df01", "index":3,"name": "The Greens" },
+{ "colour": "#ffffff", "index":4,"name": "Pauline Hanson's One Nation" },
+{ "colour": "#C7ACEC", "index":5,"name": "Family First" },
+{ "colour": "#dba901", "index":6,"name": "Marijuana (HEMP) Party\/Australian Sex Party" },
+{ "colour": "#496C4D", "index":7,"name": "Animal Justice Party" },
+{ "colour": "#9DD8A0", "index":8,"name": "Shooters, Fishers and Farmers" },
+{ "colour": "#f8f808", "index":9,"name": "Liberal Democrats" },
+{ "colour": "#7A0122", "index":10,"name": "Australian Motoring Enthusiast Party" },
+{ "colour": "#00C2ED", "index":11,"name": "Mature Australia" },
+{ "colour": "#1F599F", "index":12,"name": "Australian Liberty Alliance" },
+{ "colour": "#F989E3", "index":13,"name": "Marriage Equality" },
+{ "colour": "#888888", "index":14,"name": "Other Groups" },
+{ "colour": "#888888", "index":15,"name": "" },
+
+{ "colour": "#7db3da", "index":16,"name": "1. Simon BIRMINGHAM" },
+{ "colour": "#7db3da", "index":17,"name": "4. Cory BERNADI" },
+{ "colour": "#7db3da", "index":18,"name": "7. Anne RUSTON" },
+{ "colour": "#7db3da", "index":19,"name": "9. David FAWCETT" },
+{ "colour": "#fe2e2e", "index":20,"name": "2. Penny WONG" },
+{ "colour": "#fe2e2e", "index":21,"name": "5. Don FARRELL" },
+{ "colour": "#fe2e2e", "index":22,"name": "8. Alex GALLACHER" },
+{ "colour": "#0000ff", "index":23,"name": "3. Nick XENOPHON" },
+{ "colour": "#0000ff", "index":24,"name": "6. Stirling GRIFF" },
+{ "colour": "#0000ff", "index":25,"name": "10. Skye KAKOSCHKE-MOORE" },
+{ "colour": "#01df01", "index":26,"name": "11. Sarah HANSON-YOUNG" },
+{ "colour": "#C7ACEC", "index":27,"name": "12. Bob DAY" },
+{ "colour": "#888888", "index":28,"name": "Exhausted" },
+{ "colour": "#888888", "index":29,"name": "Unsuccessful" },
+{ "colour": "#7db3da", "index":30,"name": "LP" },
+{ "colour": "#fe2e2e", "index":31,"name": "ALP" },
+{ "colour": "#0000ff", "index":32,"name": "XEN" },
+{ "colour": "#01df01", "index":33,"name": "GRN" },
+{ "colour": "#ffffff", "index":34,"name": "ON" },
+{ "colour": "#C7ACEC", "index":35,"name": "FFP" },
+{ "colour": "#dba901", "index":36,"name": "SXHM" },
+{ "colour": "#496C4D", "index":37,"name": "AJP" },
+{ "colour": "#9DD8A0", "index":38,"name": "ASP" },
+{ "colour": "#f8f808", "index":39,"name": "LDP" },
+{ "colour": "#7A0122", "index":40,"name": "AMEP" },
+{ "colour": "#00C2ED", "index":41,"name": "MAP" },
+{ "colour": "#1F599F", "index":42,"name": "ALA" },
+{ "colour": "#F989E3", "index":43,"name": "AEQ" }
+
+
+],
+	"links": [
+{ "source":0, "value": 81629, "target": 16 },
+{ "source":0, "value": 81629, "target": 17 },
+{ "source":0, "value": 81629, "target": 18 },
+{ "source":0, "value": 81629, "target": 19 },
+{ "source":1, "value": 81629, "target": 20 },
+{ "source":1, "value": 81629, "target": 21 },
+{ "source":1, "value": 81629, "target": 22 },
+{ "source":2, "value": 81629, "target": 23 },
+{ "source":2, "value": 81629, "target": 24 },
+
+
+{ "source":0, "value": 19251, "target": 30 },
+{ "source":1, "value": 45015, "target": 31 },
+{ "source":2, "value": 67445, "target": 32 },
+{ "source":3, "value": 62329, "target": 33 },
+{ "source":4, "value": 31621, "target": 34 },
+{ "source":5, "value": 30464, "target": 35 },
+{ "source":6, "value": 12091, "target": 36 },
+{ "source":7, "value": 8981, "target": 37 },
+{ "source":8, "value": 7815, "target": 38 },
+{ "source":9, "value": 6913, "target": 39 },
+{ "source":10, "value": 5091, "target": 40 },
+{ "source":11, "value": 4440, "target": 41 },
+{ "source":12, "value": 4435, "target": 42 },
+{ "source":13, "value": 4032, "target": 43 },
+
+
+
+{ "source":32, "value": 14184, "target": 25 },
+
+{ "source":36, "value": 1398, "target": 30 },
+{ "source":37, "value": 860, "target": 30 },
+{ "source":38, "value": 1156, "target": 30 },
+{ "source":39, "value": 2170, "target": 30 },
+{ "source":40, "value": 460, "target": 30 },
+{ "source":41, "value": 237, "target": 30 },
+{ "source":42, "value": 415, "target": 30 },
+{ "source":43, "value": 236, "target": 30 },
+{ "source":14, "value": 1175, "target": 30 },
+
+
+{ "source":30, "value": 3064, "target": 31 },
+
+{ "source":32, "value": 7085, "target": 31 },
+
+{ "source":34, "value": 6766, "target": 31 },
+
+{ "source":36, "value": 2541, "target": 31 },
+{ "source":37, "value": 1264, "target": 31 },
+{ "source":38, "value": 644, "target": 31 },
+{ "source":39, "value": 555, "target": 31 },
+{ "source":40, "value": 633, "target": 31 },
+{ "source":41, "value": 2007, "target": 31 },
+{ "source":42, "value": 142, "target": 31 },
+{ "source":43, "value": 621, "target": 31 },
+{ "source":14, "value": 1207, "target": 31 },
+
+{ "source":34, "value": 14283, "target": 32 },
+
+{ "source":36, "value": 3076, "target": 32 },
+{ "source":37, "value": 1677, "target": 32 },
+{ "source":38, "value": 1259, "target": 32 },
+{ "source":39, "value": 1164, "target": 32 },
+{ "source":40, "value": 775, "target": 32 },
+{ "source":41, "value": 542, "target": 32 },
+{ "source":42, "value": 335, "target": 32 },
+{ "source":43, "value": 449, "target": 32 },
+{ "source":14, "value": 2443, "target": 32 },
+{ "source":30, "value": 6105, "target": 32 },
+
+
+{ "source":30, "value": 1957, "target": 33 },
+{ "source":31, "value": 3220, "target": 33 },
+{ "source":32, "value": 1872, "target": 33 },
+
+{ "source":34, "value": 2585, "target": 33 },
+
+{ "source":36, "value": 3913, "target": 33 },
+{ "source":37, "value": 3210, "target": 33 },
+{ "source":38, "value": 164, "target": 33 },
+{ "source":39, "value": 419, "target": 33 },
+{ "source":40, "value": 328, "target": 33 },
+{ "source":41, "value": 914, "target": 33 },
+
+{ "source":43, "value": 728, "target": 33 },
+{ "source":14, "value": 2932, "target": 33 },
+
+{ "source":30, "value": 1919, "target": 34 },
+
+{ "source":36, "value": 3497, "target": 34 },
+{ "source":37, "value": 1393, "target": 34 },
+{ "source":38, "value": 2130, "target": 34 },
+{ "source":39, "value": 679, "target": 34 },
+{ "source":40, "value": 789, "target": 34 },
+{ "source":41, "value": 177, "target": 34 },
+{ "source":42, "value": 1705, "target": 34 },
+{ "source":43, "value": 324, "target": 34 },
+{ "source":14, "value": 1155, "target": 34 },
+
+{ "source":30, "value": 10627, "target": 35 },
+{ "source":31, "value": 157, "target": 35 },
+{ "source":32, "value": 4280, "target": 35 },
+
+{ "source":34, "value": 13142, "target": 35 },
+
+{ "source":36, "value": 3249, "target": 35 },
+{ "source":37, "value": 1776, "target": 35 },
+{ "source":38, "value": 1721, "target": 35 },
+{ "source":39, "value": 1831, "target": 35 },
+{ "source":40, "value": 640, "target": 35 },
+{ "source":41, "value": 261, "target": 35 },
+{ "source":42, "value": 481, "target": 35 },
+{ "source":43, "value": 524, "target": 35 },
+{ "source":14, "value": 2394, "target": 35 },
+
+{ "source":37, "value": 2438, "target": 36 },
+{ "source":38, "value": 2470, "target": 36 },
+{ "source":39, "value": 320, "target": 36 },
+{ "source":40, "value": 807, "target": 36 },
+{ "source":41, "value": 68, "target": 36 },
+{ "source":42, "value": 183, "target": 36 },
+{ "source":43, "value": 945, "target": 36 },
+{ "source":14, "value": 945, "target": 36 },
+
+{ "source":38, "value": 718, "target": 37 },
+{ "source":39, "value": 177, "target": 37 },
+{ "source":40, "value": 328, "target": 37 },
+{ "source":41, "value": 131, "target": 37 },
+{ "source":42, "value": 246, "target": 37 },
+{ "source":43, "value": 1046, "target": 37 },
+{ "source":14, "value": 1179, "target": 37 },
+
+{ "source":39, "value": 477, "target": 38 },
+{ "source":40, "value": 902, "target": 38 },
+
+{ "source":42, "value": 692, "target": 38 },
+{ "source":43, "value": 202, "target": 38 },
+{ "source":14, "value": 200, "target": 38 },
+
+{ "source":40, "value": 406, "target": 39 },
+{ "source":41, "value": 84, "target": 39 },
+{ "source":42, "value": 198, "target": 39 },
+{ "source":43, "value": 86, "target": 39 },
+{ "source":14, "value": 350, "target": 39 },
+
+{ "source":41, "value": 161, "target": 40 },
+{ "source":43, "value": 72, "target": 40 },
+{ "source":14, "value": 657, "target": 40 },
+
+{ "source":14, "value": 161, "target": 41 },
+
+{ "source":41, "value": 73, "target": 43 },
+{ "source":42, "value": 82, "target": 43 },
+{ "source":14, "value": 709, "target": 43 },
+
+
+{ "source":30, "value": 2442, "target": 28 },
+
+{ "source":32, "value": 3125, "target": 28 },
+{ "source":33, "value": 535, "target": 28 },
+{ "source":34, "value": 9219, "target": 28 },
+
+{ "source":36, "value": 2943, "target": 28 },
+{ "source":37, "value": 784, "target": 28 },
+{ "source":38, "value": 393, "target": 28 },
+{ "source":39, "value": 654, "target": 28 },
+{ "source":40, "value": 267, "target": 28 },
+{ "source":41, "value": 326, "target": 28 },
+
+{ "source":43, "value": 128, "target": 28 },
+{ "source":14, "value": 740, "target": 28 },
+{ "source":31, "value": 68849, "target": 29 },
+{ "source":32, "value": 67445, "target": 25 },
+
+{ "source":33, "value": 81629, "target": 26 },
+
+{ "source":35, "value": 72392, "target": 27 }
+
+]
+}

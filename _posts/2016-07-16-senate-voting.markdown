@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Senate Voting, Federal Election 2013"
-date:   2016-07-16 13:42:00
-categories: dataviz election senate
+title:  "Senate Voting, Federal Election 2016"
+date:   2016-07-16 11:11:00
+categories: dataviz election senate australia votes
 ---
 
 
@@ -43,15 +43,14 @@ div.example {
 <div id="sse1">
   <div id="sses1">
     <ul>
-      <li><a href="?state=nsw&min=1000">NSW</a></li>
-      <li><a href="?state=vic&min=1000">VIC</a></li>
-      <li><a href="?state=qld&min=1000">QLD</a></li>
-      <li><a href="?state=sa&min=500">SA</a></li>
-      <li><a href="?state=tas&min=500">TAS</a></li>
-      <li><a href="?state=act&min=100">ACT</li>
-      <li><a href="?state=nt&min=100">NT</a></li>
-      <li><a href="?state=wa&min=500">WA Sep'13</a></li>
-      <li><a href="?state=wa14&min=500">WA Apr'14</a></li>
+      <li><a href="?state=nsw">NSW</a></li>
+      <li><a href="?state=vic">VIC</a></li>
+      <li><a href="?state=qld">QLD</a></li>
+      <li><a href="?state=sa">SA</a></li>
+      <li><a href="?state=tas">TAS</a></li>
+      <li><a href="?state=wa">WA</a></li>
+      <li><a href="?state=act">ACT</li>
+      <li><a href="?state=nt">NT</a></li>
     </ul>
   </div>
 </div>
@@ -69,19 +68,18 @@ Remove transfers of less than <input type="text" name="minf">
 
 #### How to interpret the diagram 
 
-Nodes on the left represent primary votes. The 15 groups that either won seats or were eliminated latest are tracked individually, while the remaining parties
-are aggregated into *Other groups* node. Intermediate nodes are positioned in the order in which they are excluded from the count (or fill a quota with insufficient excess 
+Nodes on the left represent primary votes, sized in proportion to the votes received. Groups with more than about 0.3% of the vote are tracked individually, while the remaining parties
+and individuals are aggregated into *Other groups* node. Intermediate nodes are positioned in the order in which they are excluded from the count (or fill a quota with insufficient excess 
 to continue). Up to this point they collect primary votes and any lower preferences that have thus far been distributed. After this point, their votes will be distributed 
-as preferences to others. Nodes on the right are individual elected senators, plus a _Balance_ node which simply acts as a placeholder for votes that were still in play when the
-last seat is filled. First preference votes that contribute to a filled quota flow directly to the elected candidate. Intermediate nodes simply collect and distribute preferences in
+as preferences to others. Nodes on the right are individual elected senators, plus nodes for unsuccessful and exhausted votes. First preference votes that contribute to a filled quota flow directly to the elected candidate. Intermediate nodes simply collect and distribute preferences in
 these cases.
 
-#### Some simplifications #
 
-- Votes are counted, and preferences distributed, to individual candidates who are (usually) members of a group. I have aggregated votes and preference transfers
-  to group level.
 
-- Some preference transfers may result in a flow from members of the final 15 groups 'backwards' to members in *Other groups*. These have been ignored. They won't amount to much in the scheme of things.
+#### Some simplifications
+
+- Votes are counted, and preferences distributed, to individual candidates who are (usually) members of a group. I have aggregated votes and preference transfers to group level.
+  Small transfers of preferences have been removed from the diagram, just to avoid making it more confusing than it already is. That will lead to an occasional discrepancy in the counts.
 
 
 #### Interaction
@@ -91,11 +89,7 @@ Rearranging the nodes may help to find a more visually pleasing configuration.
 
 #### Links
 
-Data for these diagrams was obtained from the [AEC](http://www.aec.gov.au/Elections/Federal_Elections/2013/index.htm)
-
-A detailed breakdown of the preference flows can be found at the [ABC election results site](http://www.abc.net.au/news/federal-election-2013/results/senate/)
-
-An alternative visualisation of these results, with an animated step through the process, can be found [here](http://www.grwpub.info/senate/)
+Data for these diagrams was obtained from the [AEC](http://vtr.aec.gov.au/SenateDownloadsMenu-20499-Csv.htm)
 
 Thanks to Mike Bostock's example of the [Sankey plugin](http://bost.ocks.org/mike/sankey/) for D3.js.
 
@@ -157,7 +151,7 @@ function getMin() {
 };
 
 var state = (QueryString.state === null || (typeof QueryString.state === "undefined")) ? "nsw" : QueryString.state;
-var fname = "/data/nodes_" + state + ".json";
+var fname = "/data/2016/nodes_" + state + ".json";
 var minSize = (QueryString.min === null || (typeof QueryString.min === "undefined")) ? 1000 : QueryString.min;
 function filterMin(links, minSize) {
 	return links.filter( function(l) {
@@ -169,16 +163,19 @@ function filterMin(links, minSize) {
 	if (!json || json === '') return console.warn('error parsing json');	
 	nodes = json.node;
 	
+	console.log(json.links[0].source + "-" + json.links[0].target);
+	
 	sankey.nodes(json.nodes)
-		.links(filterMin(json.links, minSize))
+		.links(json.links) // filterMin(json.links, minSize))
 		.layout(32);
 
   var link = svg.append("g").selectAll(".link")
-      .data(filterMin(json.links, minSize))
+      .data(json.links) // filterMin(json.links, minSize))
     .enter().append("path")
       .attr("class", "link")
       .attr("d", path)
       .style("stroke-width", function(d) { return Math.max(1, d.dy); })
+	  .style("stroke", function(d) { return d.color = d3.rgb(d.source.colour).brighter(1).darker(1); }) // force white to be darker
       .sort(function(a, b) { return b.dy - a.dy; });
 
   link.append("title")

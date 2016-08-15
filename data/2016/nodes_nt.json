@@ -1,0 +1,29 @@
+{
+	"nodes": [
+{ "colour": "#fe2e2e", "index":0,"name": "Australian Labor Party (Northern Territory) Branch" },
+{ "colour": "#7db3da", "index":1,"name": "Country Liberals (NT)" },
+{ "colour": "#01df01", "index":2,"name": "The Greens" },
+{ "colour": "#dba901", "index":3,"name": "Rise Up Australia Party" },
+{ "colour": "#db480f", "index":4,"name": "Marijuana (HEMP) Party/Australian Sex Party" },
+{ "colour": "#dba901", "index":5,"name": "Christian Democratic Party (Fred Nile Group)" },
+{ "colour": "#8888ff", "index":6,"name": "Citizens Electoral Council of Australia" },
+{ "colour": "#888888", "index":7,"name": "Unendorsed/Ungrouped Amalgamated" },
+{ "colour": "#fe2e2e", "index":8,"name": "Malarndirri McCARTHY" },
+{ "colour": "#7db3da", "index":9,"name": "Nigel SCULLION" },
+{ "colour": "#888888", "index":10,"name": "Unsuccessful" }
+
+],
+	"links": [
+{ "source":0, "value": 34010, "target": 8 },
+{ "source":1, "value": 34010, "target": 9 },
+{ "source":0, "value": 4187, "target": 10 },
+{ "source":1, "value": 3146, "target": 10 },
+{ "source":2, "value": 11003, "target": 10 },
+{ "source":3, "value": 6768, "target": 10 },
+{ "source":4, "value": 4956, "target": 10 },
+{ "source":5, "value": 1660, "target": 10 },
+{ "source":6, "value": 1255, "target": 10 },
+{ "source":7, "value": 1032, "target": 10 }
+
+]
+}

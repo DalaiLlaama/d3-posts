@@ -1,0 +1,38 @@
+{
+	"nodes": [
+{ "colour": "#fe2e2e", "index":0,"name": "Australian Labor Party" },
+{ "colour": "#7db3da", "index":1,"name": "Liberal" },
+{ "colour": "#01df01", "index":2,"name": "The Greens" },
+{ "colour": "#dba901", "index":3,"name": "Australian Sex Party" },
+{ "colour": "#f8f808", "index":4,"name": "Liberal Democratic Party" },
+{ "colour": "#dba901", "index":5,"name": "Animal Justice Party" },
+{ "colour": "#8888ff", "index":6,"name": "Christian Democratic Party (Fred Nile Group)" },
+{ "colour": "#dba901", "index":7,"name": "Sustainable Australia" },
+{ "colour": "#dba902", "index":8,"name": "Rise Up Australia Party" },
+{ "colour": "#aaaaaa", "index":9,"name": "Secular Party of Australia" },
+{ "colour": "#888888", "index":10,"name": "Unendorsed/Ungrouped Amalgamated" },
+{ "colour": "#888888", "index":11,"name": "" },
+{ "colour": "#fe2e2e", "index":12,"name": "Katy GALLAGHER" },
+{ "colour": "#7db3da", "index":13,"name": "Zed SESELJA" },
+{ "colour": "#888888", "index":14,"name": "Unsuccessful" }
+
+
+],
+	"links": [
+{ "source":0, "value": 76645, "target": 12 },
+{ "source":1, "value": 76636, "target": 13 },
+
+{ "source":10, "value": 9, "target": 13 },
+{ "source":0, "value": 10729, "target": 14 },
+{ "source":2, "value": 36525, "target": 14 },
+{ "source":3, "value": 9169, "target": 14 },
+{ "source":4, "value": 6537, "target": 14 },
+{ "source":5, "value": 3852, "target": 14 },
+{ "source":6, "value": 2748, "target": 14 },
+{ "source":7, "value": 2423, "target": 14 },
+{ "source":8, "value": 2265, "target": 14 },
+{ "source":9, "value": 1207, "target": 14 },
+{ "source":10, "value": 880, "target": 14 }
+
+]
+}

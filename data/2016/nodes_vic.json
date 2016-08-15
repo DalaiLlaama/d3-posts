@@ -1,0 +1,488 @@
+{
+	"nodes": [
+{ "colour": "#7db3da", "index":0,"name": "Liberal\/The Nationals" },
+{ "colour": "#fe2e2e", "index":1,"name": "Australian Labor Party" },
+{ "colour": "#01df01", "index":2,"name": "The Greens" },
+{ "colour": "#FA7D08", "index":3,"name": "Derryn Hinch's Justice Party" },
+{ "colour": "#f4f4f4", "index":4,"name": "Pauline Hanson's One Nation" },
+{ "colour": "#496C4D", "index":5,"name": "Animal Justice Party" },
+{ "colour": "#f8f808", "index":6,"name": "Liberal Democrats" },
+{ "colour": "#0000ff", "index":7,"name": "Nick Xenophon Team" },
+{ "colour": "#44ffff", "index":8,"name": "Australian Sex Party" },
+{ "colour": "#C7ACEC", "index":9,"name": "Family First Party" },
+{ "colour": "#9DD8A0", "index":10,"name": "Shooters, Fishers and Farmers" },
+{ "colour": "#AB00FB", "index":11,"name": "Australian Christians" },
+{ "colour": "#dba904", "index":12,"name": "Australian Motoring Enthusiast Party" },
+{ "colour": "#B88F10", "index":13,"name": "Drug Law Reform" },
+{ "colour": "#1F599F", "index":14,"name": "Australian Liberty Alliance" },
+{ "colour": "#A43E12", "index":15,"name": "DLP Democratic Labour" },
+{ "colour": "#00C2ED", "index":16,"name": "Health Australia Party" },
+{ "colour": "#F989E3", "index":17,"name": "Marriage Equality" },
+{ "colour": "#C52586", "index":18,"name": "Jacqui Lambie Network" },
+{ "colour": "#0A525F", "index":19,"name": "Pirate Party" },
+{ "colour": "#9799CE", "index":20,"name": "Science Party \/ Cyclists Party" },
+{ "colour": "#60C270", "index":21,"name": "Sustainable Australia" },
+{ "colour": "#E9ED00", "index":22,"name": "Palmer United Party" },
+{ "colour": "#EA4810", "index":23,"name": "Rise Up Australia Party" },
+{ "colour": "#888888", "index":24,"name": "" },
+
+
+{
+		"colour": "#888888",
+		"index": 25,
+		"name": "Other Groups"
+},
+{ "colour": "#7db3da", "index":26,"name": "1. Mitch FIFIELD" },
+{ "colour": "#7db3da", "index":27,"name": "4. Bridget McKENZIE" },
+{ "colour": "#7db3da", "index":28,"name": "6. Scott RYAN" },
+{ "colour": "#7db3da", "index":29,"name": "8. James PATTERSON" },
+{ "colour": "#fe2e2e", "index":30,"name": "2. Kim CARR" },
+{ "colour": "#fe2e2e", "index":31,"name": "5. Stephen CONROY" },
+{ "colour": "#fe2e2e", "index":32,"name": "7. Jacinta COLLINS" },
+{ "colour": "#fe2e2e", "index":33,"name": "9. Gavin MARSHALL" },
+{ "colour": "#01df01", "index":34,"name": "3. Richard DI NATALE" },
+{ "colour": "#FA7D08", "index":35,"name": "10. Derryn HINCH" },
+{ "colour": "#01df01", "index":36,"name": "11. Janet RICE" },
+{ "colour": "#7db3da", "index":37,"name": "12. Jane HUME" },
+{ "colour": "#888888", "index":38,"name": "Exhausted" },
+{ "colour": "#888888", "index":39,"name": "" },
+
+
+{ "colour": "#7db3da", "index":40,"name": "LPNP" },
+{ "colour": "#fe2e2e", "index":41,"name": "ALP" },
+{ "colour": "#01df01", "index":42,"name": "GRN" },
+{ "colour": "#FA7D08", "index":43,"name": "DHJP" },
+{ "colour": "#f4f4f4", "index":44,"name": "ON" },
+{ "colour": "#496C4D", "index":45,"name": "AJP" },
+{ "colour": "#f8f808", "index":46,"name": "LDP" },
+{ "colour": "#0000ff", "index":47,"name": "NXT" },
+{ "colour": "#44ffff", "index":48,"name": "ASXP" },
+{ "colour": "#C7ACEC", "index":49,"name": "FFP" },
+{ "colour": "#9DD8A0", "index":50,"name": "ASP" },
+{ "colour": "#AB00FB", "index":51,"name": "AUC" },
+{ "colour": "#dba904", "index":52,"name": "AMEP" },
+{ "colour": "#B88F10", "index":53,"name": "DRF" },
+{ "colour": "#1F599F", "index":54,"name": "ALA" },
+{ "colour": "#A43E12", "index":55,"name": "DLP" },
+{ "colour": "#00C2ED", "index":56,"name": "NMP" },
+{ "colour": "#F989E3", "index":57,"name": "AEQ" },
+{ "colour": "#C52586", "index":58,"name": "JLN" },
+{ "colour": "#0A525F", "index":59,"name": "PIR" },
+{ "colour": "#9799CE", "index":60,"name": "FTCY" },
+{ "colour": "#60C270", "index":61,"name": "SPP" }
+
+
+
+],
+	"links": [
+
+	{ "source":0, "value": 269250, "target": 26 },
+{ "source":0, "value": 269250, "target": 27 },
+{ "source":0, "value": 269250, "target": 28 },
+{ "source":0, "value": 269250, "target": 29 },
+{ "source":1, "value": 269250, "target": 30 },
+{ "source":1, "value": 269250, "target": 31 },
+{ "source":1, "value": 269250, "target": 32 },
+{ "source":2, "value": 269250, "target": 34 },
+{ "source":41, "value": 269250, "target": 33 },
+{ "source":43, "value": 269250, "target": 35 },
+{ "source":42, "value": 269250, "target": 36 },
+{ "source":40, "value": 237553, "target": 37 },
+
+{ "source":3, "value": 211733, "target": 43 },
+{ "source":2, "value": 111249, "target": 42 },
+{ "source":0, "value": 81800, "target": 40 },
+
+{ "source":1, "value": 267908, "target": 41 },
+{ "source":4, "value": 63528, "target": 44 },
+{ "source":5, "value": 60780, "target": 45 },
+{ "source":6, "value": 55501, "target": 46 },
+{ "source":7, "value": 55118, "target": 47 },
+{ "source":8, "value": 54128, "target": 48 },
+{ "source":9, "value": 39747, "target": 49 },
+{ "source":10, "value": 36669, "target": 50 },
+{ "source":11, "value": 34763, "target": 51 },
+{ "source":12, "value": 31785, "target": 52 },
+{ "source":13, "value": 23384, "target": 53 },
+{ "source":14, "value": 23080, "target": 54 },
+{ "source":15, "value": 18152, "target": 55 },
+{ "source":16, "value": 17169, "target": 56 },
+{ "source":17, "value": 17139, "target": 57 },
+{ "source":18, "value": 15288, "target": 58 },
+{ "source":19, "value": 13424, "target": 59 },
+{ "source":20, "value": 11567, "target": 60 },
+{ "source":21, "value": 10574, "target": 61 },
+
+
+
+
+
+{ "source":42, "value": 1827, "target": 40 },
+{ "source":43, "value": 2280, "target": 40 },
+{ "source":44, "value": 22063, "target": 40 },
+{ "source":45, "value": 5991, "target": 40 },
+{ "source":46, "value": 23257, "target": 40 },
+{ "source":47, "value": 12137, "target": 40 },
+{ "source":48, "value": 13589, "target": 40 },
+{ "source":49, "value": 40160, "target": 40 },
+{ "source":50, "value": 7000, "target": 40 },
+{ "source":51, "value": 6127, "target": 40 },
+{ "source":52, "value": 3056, "target": 40 },
+{ "source":53, "value": 3038, "target": 40 },
+{ "source":54, "value": 4185, "target": 40 },
+{ "source":55, "value": 1742, "target": 40 },
+{ "source":56, "value": 1267, "target": 40 },
+{ "source":57, "value": 1636, "target": 40 },
+{ "source":58, "value": 674, "target": 40 },
+{ "source":59, "value": 516, "target": 40 },
+{ "source":60, "value": 582, "target": 40 },
+{ "source":61, "value": 697, "target": 40 },
+{ "source":22, "value": 202, "target": 40 },
+{ "source":23, "value": 889, "target": 40 },
+{ "source":25, "value": 5134, "target": 40 },
+
+
+{ "source":58, "value": 2392, "target": 41 },
+{ "source":59, "value": 1176, "target": 41 },
+{ "source":60, "value": 1465, "target": 41 },
+{ "source":61, "value": 1073, "target": 41 },
+{ "source":22, "value": 595, "target": 41 },
+{ "source":23, "value": 358, "target": 41 },
+{ "source":25, "value": 1849, "target": 41 },
+
+{ "source":41, "value": 243, "target": 42 },
+
+{ "source":43, "value": 2380, "target": 42 },
+{ "source":44, "value": 7594, "target": 42 },
+{ "source":45, "value": 23636, "target": 42 },
+{ "source":46, "value": 9930, "target": 42 },
+{ "source":47, "value": 24445, "target": 42 },
+{ "source":48, "value": 44170, "target": 42 },
+{ "source":49, "value": 18907, "target": 42 },
+{ "source":50, "value": 2257, "target": 42 },
+{ "source":51, "value": 1492, "target": 42 },
+{ "source":52, "value": 6278, "target": 42 },
+{ "source":53, "value": 5712, "target": 42 },
+{ "source":54, "value": 896, "target": 42 },
+{ "source":55, "value": 1759, "target": 42 },
+{ "source":56, "value": 2702, "target": 42 },
+{ "source":57, "value": 5351, "target": 42 },
+{ "source":58, "value": 519, "target": 42 },
+{ "source":59, "value": 1710, "target": 42 },
+{ "source":60, "value": 2095, "target": 42 },
+{ "source":61, "value": 1249, "target": 42 },
+
+{ "source":23, "value": 411, "target": 42 },
+{ "source":25, "value": 1725, "target": 42 },
+
+
+{ "source":41, "value": 155, "target": 43 },
+
+
+
+{ "source":45, "value": 21393, "target": 43 },
+{ "source":46, "value": 5763, "target": 43 },
+{ "source":47, "value": 14793, "target": 43 },
+
+
+{ "source":50, "value": 4485, "target": 43 },
+{ "source":51, "value": 2195, "target": 43 },
+{ "source":52, "value": 3898, "target": 43 },
+{ "source":53, "value": 1156, "target": 43 },
+{ "source":54, "value": 3367, "target": 43 },
+{ "source":55, "value": 1060, "target": 43 },
+{ "source":56, "value": 1479, "target": 43 },
+{ "source":57, "value": 1047, "target": 43 },
+{ "source":58, "value": 2860, "target": 43 },
+{ "source":59, "value": 744, "target": 43 },
+{ "source":60, "value": 655, "target": 43 },
+{ "source":61, "value": 1102, "target": 43 },
+{ "source":22, "value": 533, "target": 43 },
+{ "source":23, "value": 572, "target": 43 },
+{ "source":25, "value": 747, "target": 43 },
+
+{ "source":43, "value": 2498, "target": 44 },
+
+{ "source":45, "value": 4181, "target": 44 },
+{ "source":46, "value": 4918, "target": 44 },
+{ "source":47, "value": 6833, "target": 44 },
+
+
+{ "source":50, "value": 8193, "target": 44 },
+{ "source":51, "value": 1530, "target": 44 },
+{ "source":52, "value": 3955, "target": 44 },
+{ "source":53, "value": 1389, "target": 44 },
+{ "source":54, "value": 4897, "target": 44 },
+{ "source":55, "value": 843, "target": 44 },
+{ "source":56, "value": 941, "target": 44 },
+{ "source":57, "value": 1051, "target": 44 },
+{ "source":58, "value": 1773, "target": 44 },
+{ "source":59, "value": 345, "target": 44 },
+{ "source":60, "value": 100, "target": 44 },
+{ "source":61, "value": 607, "target": 44 },
+{ "source":22, "value": 251, "target": 44 },
+{ "source":23, "value": 2577, "target": 44 },
+{ "source":25, "value": 1064, "target": 44 },
+
+{ "source":41, "value": 90, "target": 45 },
+
+
+
+
+{ "source":46, "value": 2983, "target": 45 },
+{ "source":47, "value": 3266, "target": 45 },
+
+
+{ "source":50, "value": 2202, "target": 45 },
+{ "source":51, "value": 2874, "target": 45 },
+{ "source":52, "value": 1564, "target": 45 },
+{ "source":53, "value": 2859, "target": 45 },
+{ "source":54, "value": 939, "target": 45 },
+{ "source":55, "value": 646, "target": 45 },
+{ "source":56, "value": 3757, "target": 45 },
+{ "source":57, "value": 2813, "target": 45 },
+{ "source":58, "value": 1210, "target": 45 },
+{ "source":59, "value": 1338, "target": 45 },
+{ "source":60, "value": 1267, "target": 45 },
+{ "source":61, "value": 1355, "target": 45 },
+{ "source":22, "value": 5632, "target": 45 },
+{ "source":23, "value": 178, "target": 45 },
+{ "source":25, "value": 562, "target": 45 },
+
+{ "source":41, "value": 15, "target": 46 },
+
+
+
+
+
+
+
+
+{ "source":50, "value": 4722, "target": 46 },
+{ "source":51, "value": 1392, "target": 46 },
+{ "source":52, "value": 800, "target": 46 },
+{ "source":53, "value": 1003, "target": 46 },
+{ "source":54, "value": 1847, "target": 46 },
+{ "source":55, "value": 681, "target": 46 },
+{ "source":56, "value": 481, "target": 46 },
+{ "source":57, "value": 389, "target": 46 },
+{ "source":58, "value": 178, "target": 46 },
+{ "source":59, "value": 134, "target": 46 },
+{ "source":60, "value": 105, "target": 46 },
+{ "source":61, "value": 174, "target": 46 },
+{ "source":22, "value": 59, "target": 46 },
+{ "source":23, "value": 401, "target": 46 },
+{ "source":25, "value": 742, "target": 46 },
+
+{ "source":46, "value": 2181, "target": 47 },
+
+
+
+{ "source":50, "value": 1604, "target": 47 },
+{ "source":51, "value": 1265, "target": 47 },
+{ "source":52, "value": 7747, "target": 47 },
+{ "source":53, "value": 732, "target": 47 },
+{ "source":54, "value": 1970, "target": 47 },
+{ "source":55, "value": 1295, "target": 47 },
+{ "source":56, "value": 1005, "target": 47 },
+{ "source":57, "value": 645, "target": 47 },
+{ "source":58, "value": 2276, "target": 47 },
+{ "source":59, "value": 719, "target": 47 },
+{ "source":60, "value": 692, "target": 47 },
+{ "source":61, "value": 636, "target": 47 },
+
+
+{ "source":25, "value": 886, "target": 47 },
+
+{ "source":41, "value": 298, "target": 48 },
+
+{ "source":43, "value": 1560, "target": 48 },
+{ "source":44, "value": 17547, "target": 48 },
+{ "source":45, "value": 10440, "target": 48 },
+{ "source":46, "value": 4861, "target": 48 },
+{ "source":47, "value": 6108, "target": 48 },
+
+
+{ "source":50, "value": 11116, "target": 48 },
+{ "source":51, "value": 361, "target": 48 },
+{ "source":52, "value": 5085, "target": 48 },
+{ "source":53, "value": 9471, "target": 48 },
+{ "source":54, "value": 471, "target": 48 },
+{ "source":55, "value": 559, "target": 48 },
+{ "source":56, "value": 878, "target": 48 },
+{ "source":57, "value": 3381, "target": 48 },
+{ "source":58, "value": 381, "target": 48 },
+{ "source":59, "value": 2702, "target": 48 },
+{ "source":60, "value": 1200, "target": 48 },
+{ "source":61, "value": 341, "target": 48 },
+
+{ "source":23, "value": 509, "target": 48 },
+{ "source":25, "value": 317, "target": 48 },
+
+{ "source":43, "value": 2163, "target": 49 },
+{ "source":44, "value": 21898, "target": 49 },
+{ "source":45, "value": 13749, "target": 49 },
+{ "source":46, "value": 8825, "target": 49 },
+{ "source":47, "value": 4839, "target": 49 },
+{ "source":48, "value": 15747, "target": 49 },
+
+{ "source":50, "value": 5094, "target": 49 },
+{ "source":51, "value": 25094, "target": 49 },
+{ "source":52, "value": 1475, "target": 49 },
+{ "source":53, "value": 1568, "target": 49 },
+{ "source":54, "value": 3405, "target": 49 },
+{ "source":55, "value": 3665, "target": 49 },
+{ "source":56, "value": 7465, "target": 49 },
+{ "source":57, "value": 1395, "target": 49 },
+{ "source":58, "value": 1148, "target": 49 },
+{ "source":59, "value": 1139, "target": 49 },
+{ "source":60, "value": 344, "target": 49 },
+{ "source":61, "value": 868, "target": 49 },
+{ "source":22, "value": 252, "target": 49 },
+{ "source":23, "value": 1533, "target": 49 },
+{ "source":25, "value": 8483, "target": 49 },
+
+{ "source":51, "value": 706, "target": 50 },
+{ "source":52, "value": 4752, "target": 50 },
+{ "source":53, "value": 3278, "target": 50 },
+{ "source":54, "value": 981, "target": 50 },
+{ "source":55, "value": 292, "target": 50 },
+{ "source":56, "value": 464, "target": 50 },
+{ "source":57, "value": 569, "target": 50 },
+{ "source":58, "value": 278, "target": 50 },
+{ "source":59, "value": 443, "target": 50 },
+{ "source":60, "value": 156, "target": 50 },
+{ "source":61, "value": 213, "target": 50 },
+
+{ "source":23, "value": 567, "target": 50 },
+{ "source":25, "value": 1169, "target": 50 },
+
+{ "source":52, "value": 400, "target": 51 },
+{ "source":53, "value": 296, "target": 51 },
+{ "source":54, "value": 1078, "target": 51 },
+{ "source":55, "value": 1994, "target": 51 },
+{ "source":56, "value": 1509, "target": 51 },
+{ "source":57, "value": 112, "target": 51 },
+{ "source":58, "value": 1945, "target": 51 },
+{ "source":59, "value": 560, "target": 51 },
+{ "source":60, "value": 633, "target": 51 },
+{ "source":61, "value": 397, "target": 51 },
+{ "source":22, "value": 580, "target": 51 },
+{ "source":23, "value": 1405, "target": 51 },
+{ "source":25, "value": 2758, "target": 51 },
+
+{ "source":53, "value": 1166, "target": 52 },
+{ "source":54, "value": 1322, "target": 52 },
+{ "source":55, "value": 630, "target": 52 },
+{ "source":56, "value": 629, "target": 52 },
+{ "source":57, "value": 488, "target": 52 },
+{ "source":58, "value": 698, "target": 52 },
+{ "source":59, "value": 863, "target": 52 },
+{ "source":60, "value": 367, "target": 52 },
+{ "source":61, "value": 240, "target": 52 },
+
+
+{ "source":25, "value": 261, "target": 52 },
+
+{ "source":54, "value": 847, "target": 53 },
+{ "source":55, "value": 464, "target": 53 },
+{ "source":56, "value": 1277, "target": 53 },
+{ "source":57, "value": 2609, "target": 53 },
+{ "source":58, "value": 196, "target": 53 },
+{ "source":59, "value": 1401, "target": 53 },
+{ "source":60, "value": 362, "target": 53 },
+{ "source":61, "value": 306, "target": 53 },
+
+{ "source":23, "value": 261, "target": 53 },
+{ "source":25, "value": 1056, "target": 53 },
+
+{ "source":55, "value": 2155, "target": 54 },
+{ "source":56, "value": 1037, "target": 54 },
+{ "source":57, "value": 269, "target": 54 },
+{ "source":58, "value": 251, "target": 54 },
+{ "source":59, "value": 225, "target": 54 },
+{ "source":60, "value": 85, "target": 54 },
+{ "source":61, "value": 220, "target": 54 },
+
+{ "source":23, "value": 276, "target": 54 },
+{ "source":25, "value": 127, "target": 54 },
+
+{ "source":58, "value": 385, "target": 55 },
+{ "source":59, "value": 253, "target": 55 },
+{ "source":60, "value": 93, "target": 55 },
+{ "source":61, "value": 234, "target": 55 },
+
+
+{ "source":25, "value": 548, "target": 55 },
+
+{ "source":55, "value": 1385, "target": 56 },
+
+{ "source":57, "value": 903, "target": 56 },
+{ "source":58, "value": 1336, "target": 56 },
+{ "source":59, "value": 1733, "target": 56 },
+{ "source":60, "value": 593, "target": 56 },
+{ "source":61, "value": 1357, "target": 56 },
+{ "source":22, "value": 290, "target": 56 },
+
+{ "source":25, "value": 790, "target": 56 },
+
+{ "source":55, "value": 697, "target": 57 },
+
+
+{ "source":58, "value": 256, "target": 57 },
+{ "source":59, "value": 956, "target": 57 },
+{ "source":60, "value": 611, "target": 57 },
+{ "source":61, "value": 516, "target": 57 },
+
+
+{ "source":25, "value": 601, "target": 57 },
+
+{ "source":59, "value": 480, "target": 58 },
+{ "source":60, "value": 1288, "target": 58 },
+{ "source":61, "value": 504, "target": 58 },
+{ "source":22, "value": 670, "target": 58 },
+
+{ "source":25, "value": 181, "target": 58 },
+
+{ "source":60, "value": 1463, "target": 59 },
+{ "source":61, "value": 770, "target": 59 },
+
+
+{ "source":25, "value": 495, "target": 59 },
+
+{ "source":61, "value": 596, "target": 60 },
+{ "source":22, "value": 377, "target": 60 },
+
+{ "source":25, "value": 497, "target": 60 },
+
+{ "source":25, "value": 1455, "target": 61 },
+
+{ "source":41, "value": 62, "target": 38 },
+{ "source":42, "value": 9568, "target": 38 },
+{ "source":43, "value": 3670, "target": 38 },
+{ "source":44, "value": 43989, "target": 38 },
+{ "source":45, "value": 19727, "target": 38 },
+{ "source":46, "value": 7276, "target": 38 },
+{ "source":47, "value": 10137, "target": 38 },
+{ "source":48, "value": 61640, "target": 38 },
+{ "source":49, "value": 109819, "target": 38 },
+{ "source":50, "value": 5033, "target": 38 },
+{ "source":51, "value": 6703, "target": 38 },
+{ "source":52, "value": 3251, "target": 38 },
+{ "source":53, "value": 2715, "target": 38 },
+{ "source":54, "value": 3130, "target": 38 },
+{ "source":55, "value": 1833, "target": 38 },
+{ "source":56, "value": 3318, "target": 38 },
+{ "source":57, "value": 1089, "target": 38 },
+{ "source":58, "value": 1025, "target": 38 },
+{ "source":59, "value": 848, "target": 38 },
+{ "source":60, "value": 569, "target": 38 },
+{ "source":61, "value": 502, "target": 38 },
+{ "source":22, "value": 318, "target": 38 },
+{ "source":23, "value": 279, "target": 38 },
+{ "source":25, "value": 3782, "target": 38 }
+
+	
+	
+]
+}

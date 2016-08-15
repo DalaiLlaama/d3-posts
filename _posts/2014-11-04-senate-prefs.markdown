@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Senate Preferences, Federal Election 2013"
-date:   2014-11-04 19:56:47
+date:   2016-07-16 13:33:00
 categories: dataviz election senate
 ---
 
@@ -118,13 +118,13 @@ Hover over a party to see only the preferences of that party. Hover over a chord
 
 #### Links
 
-Data for these diagrams was obtained from the [AEC](http://www.aec.gov.au/Elections/Federal_Elections/2013/index.htm)
+Data for these diagrams was obtained from the [AEC](https://www.aec.gov.au/Elections/Federal_Elections/2013/index.htm)
 
 
 </p>
 
-<script src="http://d3js.org/d3.v3.min.js?3.4.13"></script>
-<script src="http://d3js.org/queue.v1.min.js"></script>
+<script src="https://d3js.org/d3.v3.min.js?3.4.13"></script>
+<script src="https://d3js.org/queue.v1.min.js"></script>
 <script src="/js/menucool.js"></script>
 
 <div id="tooltip"></div>
